@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+	<head>
+		<meta
+			name="dtb:uid"
+			content="AUTO-UID-5622526195009130373" />
+		<meta
+			name="dtb:generator"
+			content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+		<meta
+			name="dtb:totalElapsedTime"
+			content="00:16:56.4196373" />
+		<customAttributes>
+			<customTest
+				defaultState="false"
+				id="pagenum"
+				override="visible" />
+		</customAttributes>
+	</head>
+	<body>
+		<seq
+			id="sm_1081"
+			dur="00:00:13.0120408"
+			fill="remove">
+			<seq
+				id="sm_1082"
+				class="h2">
+				<par
+					id="sm_1083">
+					<text
+						id="sm_1084"
+						src="dtbook.xml#dtb_609" />
+					<audio
+						id="sm_1085"
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.3074830"
+						src="aud012.mp3" />
+				</par>
+			</seq>
+			<par
+				id="sm_1086">
+				<text
+					id="sm_1087"
+					src="dtbook.xml#dtb_612" />
+				<audio
+					id="sm_1088"
+					clipBegin="00:00:03.3074830"
+					clipEnd="00:00:05.3927438"
+					src="aud012.mp3" />
+			</par>
+			<seq
+				id="sm_1089"
+				class="pagenum"
+				customTest="pagenum">
+				<par
+					id="sm_1090">
+					<text
+						id="sm_1091"
+						src="dtbook.xml#dtb_613" />
+					<audio
+						id="sm_1092"
+						clipBegin="00:00:05.3927438"
+						clipEnd="00:00:07.6220408"
+						src="aud012.mp3" />
+				</par>
+			</seq>
+			<par
+				id="sm_1093">
+				<text
+					id="sm_1094"
+					src="dtbook.xml#dtb_616" />
+				<audio
+					id="sm_1095"
+					clipBegin="00:00:07.6220408"
+					clipEnd="00:00:09.7320408"
+					src="aud012.mp3" />
+			</par>
+			<seq
+				id="sm_1096"
+				class="pagenum"
+				customTest="pagenum">
+				<par
+					id="sm_1097">
+					<text
+						id="sm_1098"
+						src="dtbook.xml#dtb_617" />
+					<audio
+						id="sm_1099"
+						clipBegin="00:00:09.7320408"
+						clipEnd="00:00:13.0120408"
+						src="aud012.mp3" />
+				</par>
+			</seq>
+		</seq>
+	</body>
+</smil>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+	<head>
+		<meta
+			name="dtb:uid"
+			content="AUTO-UID-5616132112266615999" />
+		<meta
+			name="dtb:generator"
+			content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+		<meta
+			name="dtb:totalElapsedTime"
+			content="00:45:40.5408162" />
+		<customAttributes>
+			<customTest
+				defaultState="false"
+				id="pagenum"
+				override="visible" />
+		</customAttributes>
+	</head>
+	<body>
+		<seq
+			id="sm_3355"
+			dur="00:00:12.5819728"
+			fill="remove">
+			<seq
+				id="sm_3356"
+				class="h3">
+				<par
+					id="sm_3357">
+					<text
+						id="sm_3358"
+						src="dtbook.xml#dtb_2384" />
+					<audio
+						id="sm_3359"
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.0143537"
+						src="aud035.mp3" />
+				</par>
+			</seq>
+			<par
+				id="sm_3360">
+				<text
+					id="sm_3361"
+					src="dtbook.xml#dtb_2386" />
+				<audio
+					id="sm_3362"
+					clipBegin="00:00:03.0143537"
+					clipEnd="00:00:04.0638322"
+					src="aud035.mp3" />
+			</par>
+			<par
+				id="sm_3363">
+				<text
+					id="sm_3364"
+					src="dtbook.xml#dtb_2387" />
+				<audio
+					id="sm_3365"
+					clipBegin="00:00:04.0638322"
+					clipEnd="00:00:07.0882086"
+					src="aud035.mp3" />
+			</par>
+			<par
+				id="sm_3366">
+				<text
+					id="sm_3367"
+					src="dtbook.xml#dtb_2390" />
+				<audio
+					id="sm_3368"
+					clipBegin="00:00:07.0882086"
+					clipEnd="00:00:10.8625624"
+					src="aud035.mp3" />
+			</par>
+			<seq
+				id="sm_3369"
+				class="pagenum"
+				customTest="pagenum">
+				<par
+					id="sm_3370">
+					<text
+						id="sm_3371"
+						src="dtbook.xml#dtb_2391" />
+					<audio
+						id="sm_3372"
+						clipBegin="00:00:10.8625624"
+						clipEnd="00:00:12.5819728"
+						src="aud035.mp3" />
+				</par>
+			</seq>
+		</seq>
+	</body>
+</smil>

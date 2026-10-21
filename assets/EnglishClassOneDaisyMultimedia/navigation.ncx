@@ -1,0 +1,2215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx
+	version="2005-1"
+	xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+	<head>
+		<meta
+			name="dtb:uid"
+			content="AUTO-UID-5616132112266615999" />
+		<meta
+			name="dtb:generator"
+			content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+		<meta
+			name="dtb:depth"
+			content="3" />
+		<meta
+			name="dtb:totalPageCount"
+			content="94" />
+		<meta
+			name="dtb:maxPageNumber"
+			content="94" />
+		<smilCustomTest
+			bookStruct="PAGE_NUMBER"
+			defaultState="false"
+			id="pagenum"
+			override="visible" />
+	</head>
+	<docTitle>
+		<text>English For Today - Class One</text>
+		<audio
+			clipBegin="00:00:00"
+			clipEnd="00:00:02.9343764"
+			src="aud001.mp3" />
+	</docTitle>
+	<navMap>
+		<navPoint
+			class="h1"
+			id="ncx_1"
+			playOrder="1">
+			<navLabel>
+				<text>English For Today - Class One</text>
+				<audio
+					clipBegin="00:00:00"
+					clipEnd="00:00:02.9343764"
+					src="aud003.mp3" />
+			</navLabel>
+			<content
+				src="002.smil#sm_17" />
+			<navPoint
+				class="h2"
+				id="ncx_2"
+				playOrder="2">
+				<navLabel>
+					<text>Preface</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:01.4844218"
+						src="aud004.mp3" />
+				</navLabel>
+				<content
+					src="003.smil#sm_124" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_3"
+				playOrder="3">
+				<navLabel>
+					<text>Contents</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:01.5944444"
+						src="aud005.mp3" />
+				</navLabel>
+				<content
+					src="004.smil#sm_186" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_5"
+				playOrder="5">
+				<navLabel>
+					<text>Unit - 1 Greetings and Farewells</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.1943311"
+						src="aud006.mp3" />
+				</navLabel>
+				<content
+					src="005.smil#sm_528" />
+				<navPoint
+					class="h3"
+					id="ncx_7"
+					playOrder="7">
+					<navLabel>
+						<text>Lesson 1 - Good Morning (1)</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:03.4293424"
+							src="aud007.mp3" />
+					</navLabel>
+					<content
+						src="006.smil#sm_540" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_10"
+					playOrder="10">
+					<navLabel>
+						<text>Lesson 2 - Good Morning (2)</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:03.2844444"
+							src="aud008.mp3" />
+					</navLabel>
+					<content
+						src="007.smil#sm_604" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_12"
+					playOrder="12">
+					<navLabel>
+						<text>Lesson 3- How Are You?</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.1494104"
+							src="aud009.mp3" />
+					</navLabel>
+					<content
+						src="008.smil#sm_634" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_15"
+					playOrder="15">
+					<navLabel>
+						<text>Lesson 4- How Are You?</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.1143991"
+							src="aud010.mp3" />
+					</navLabel>
+					<content
+						src="009.smil#sm_712" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_17"
+					playOrder="17">
+					<navLabel>
+						<text>Lesson 5- Goodbye</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.0044218"
+							src="aud011.mp3" />
+					</navLabel>
+					<content
+						src="010.smil#sm_826" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_19"
+					playOrder="19">
+					<navLabel>
+						<text>Lesson 6- Two Little Blackbirds</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.8943537"
+							src="aud012.mp3" />
+					</navLabel>
+					<content
+						src="011.smil#sm_908" />
+				</navPoint>
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_22"
+				playOrder="22">
+				<navLabel>
+					<text>Unit – 2- The Alphabet and Numbers</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:02.7793424"
+						src="aud013.mp3" />
+				</navLabel>
+				<content
+					src="012.smil#sm_1005" />
+				<navPoint
+					class="h3"
+					id="ncx_24"
+					playOrder="24">
+					<navLabel>
+						<text>Lesson 1- The Alphabet Song</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.5743764"
+							src="aud014.mp3" />
+					</navLabel>
+					<content
+						src="013.smil#sm_1017" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_27"
+					playOrder="27">
+					<navLabel>
+						<text>Lesson 2- aA bB</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.0593878"
+							src="aud015.mp3" />
+					</navLabel>
+					<content
+						src="014.smil#sm_1069" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_31"
+					playOrder="31">
+					<navLabel>
+						<text>Lesson 3- cC dd</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.4594104"
+							src="aud016.mp3" />
+					</navLabel>
+					<content
+						src="015.smil#sm_1224" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_35"
+					playOrder="35">
+					<navLabel>
+						<text>Lesson 4- Numbers 1 2</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.4093878"
+							src="aud017.mp3" />
+					</navLabel>
+					<content
+						src="016.smil#sm_1363" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_38"
+					playOrder="38">
+					<navLabel>
+						<text>Lesson 5- Two Little Hands</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.6243764"
+							src="aud018.mp3" />
+					</navLabel>
+					<content
+						src="017.smil#sm_1418" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_40"
+					playOrder="40">
+					<navLabel>
+						<text>Lesson 6- eE fF</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.3793878"
+							src="aud019.mp3" />
+					</navLabel>
+					<content
+						src="018.smil#sm_1481" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_44"
+					playOrder="44">
+					<navLabel>
+						<text>Lesson 7- Numbers 3 4</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.7143537"
+							src="aud020.mp3" />
+					</navLabel>
+					<content
+						src="019.smil#sm_1626" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_47"
+					playOrder="47">
+					<navLabel>
+						<text>Lesson 8- Counting Cats</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.3893651"
+							src="aud021.mp3" />
+					</navLabel>
+					<content
+						src="020.smil#sm_1693" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_49"
+					playOrder="49">
+					<navLabel>
+						<text>Lesson 9- gG hH</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.6043991"
+							src="aud022.mp3" />
+					</navLabel>
+					<content
+						src="021.smil#sm_1748" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_53"
+					playOrder="53">
+					<navLabel>
+						<text>Lesson 10- Numbers 5 6</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.6843537"
+							src="aud023.mp3" />
+					</navLabel>
+					<content
+						src="022.smil#sm_1903" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_55"
+					playOrder="55">
+					<navLabel>
+						<text>Lesson 10- Numbers 5 6</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.6843537"
+							src="aud024.mp3" />
+					</navLabel>
+					<content
+						src="023.smil#sm_1942" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_57"
+					playOrder="57">
+					<navLabel>
+						<text>Lesson 11- iI jJ</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.3244218"
+							src="aud025.mp3" />
+					</navLabel>
+					<content
+						src="024.smil#sm_1982" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_61"
+					playOrder="61">
+					<navLabel>
+						<text>Lesson 12- Numbers 7 8</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.6093878"
+							src="aud026.mp3" />
+					</navLabel>
+					<content
+						src="025.smil#sm_2133" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_64"
+					playOrder="64">
+					<navLabel>
+						<text>Lesson 13- kK lL</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.6293878"
+							src="aud027.mp3" />
+					</navLabel>
+					<content
+						src="026.smil#sm_2191" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_68"
+					playOrder="68">
+					<navLabel>
+						<text>Lesson 14- mM nN</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.6793878"
+							src="aud028.mp3" />
+					</navLabel>
+					<content
+						src="027.smil#sm_2367" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_72"
+					playOrder="72">
+					<navLabel>
+						<text>Lesson 15- Numbers 9 10</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.7243311"
+							src="aud029.mp3" />
+					</navLabel>
+					<content
+						src="028.smil#sm_2536" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_76"
+					playOrder="76">
+					<navLabel>
+						<text>Lesson 16- oO pP</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.5394104"
+							src="aud030.mp3" />
+					</navLabel>
+					<content
+						src="029.smil#sm_2625" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_80"
+					playOrder="80">
+					<navLabel>
+						<text>Lesson 17- qQ rR</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.8243311"
+							src="aud031.mp3" />
+					</navLabel>
+					<content
+						src="030.smil#sm_2786" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_84"
+					playOrder="84">
+					<navLabel>
+						<text>Lesson 18- s S t T</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.5894104"
+							src="aud032.mp3" />
+					</navLabel>
+					<content
+						src="031.smil#sm_2947" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_88"
+					playOrder="88">
+					<navLabel>
+						<text>Lesson 19- u U v V wW</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:03.4492744"
+							src="aud033.mp3" />
+					</navLabel>
+					<content
+						src="032.smil#sm_3093" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_92"
+					playOrder="92">
+					<navLabel>
+						<text>Lesson 20- x X y Y z Z</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:03.2443084"
+							src="aud034.mp3" />
+					</navLabel>
+					<content
+						src="033.smil#sm_3227" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_96"
+					playOrder="96">
+					<navLabel>
+						<text>Lesson 21- Review of aA – zZ</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:03.0143537"
+							src="aud035.mp3" />
+					</navLabel>
+					<content
+						src="034.smil#sm_3357" />
+				</navPoint>
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_98"
+				playOrder="98">
+				<navLabel>
+					<text>Unit - 3 - Classroom Instructions</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.8693197"
+						src="aud036.mp3" />
+				</navLabel>
+				<content
+					src="035.smil#sm_3375" />
+				<navPoint
+					class="h3"
+					id="ncx_100"
+					playOrder="100">
+					<navLabel>
+						<text>Lesson 1- Classroom Instructions 1</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:03.1043311"
+							src="aud037.mp3" />
+					</navLabel>
+					<content
+						src="036.smil#sm_3387" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_103"
+					playOrder="103">
+					<navLabel>
+						<text>Lesson 2- Classroom Instructions 2</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:03.0193197"
+							src="aud038.mp3" />
+					</navLabel>
+					<content
+						src="037.smil#sm_3490" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_107"
+					playOrder="107">
+					<navLabel>
+						<text>Lesson 3- Classroom Instructions 3</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:03.1593197"
+							src="aud039.mp3" />
+					</navLabel>
+					<content
+						src="038.smil#sm_3602" />
+				</navPoint>
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_112"
+				playOrder="112">
+				<navLabel>
+					<text>Unit - 4 - Questions and Answers</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.7742857"
+						src="aud040.mp3" />
+				</navLabel>
+				<content
+					src="039.smil#sm_3722" />
+				<navPoint
+					class="h3"
+					id="ncx_114"
+					playOrder="114">
+					<navLabel>
+						<text>Lesson 1- Self-introduction</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.5792971"
+							src="aud041.mp3" />
+					</navLabel>
+					<content
+						src="040.smil#sm_3734" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_116"
+					playOrder="116">
+					<navLabel>
+						<text>Lesson 2- In the Village</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.1293878"
+							src="aud042.mp3" />
+					</navLabel>
+					<content
+						src="041.smil#sm_3822" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_119"
+					playOrder="119">
+					<navLabel>
+						<text>Lesson 3- In the City</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.1494104"
+							src="aud043.mp3" />
+					</navLabel>
+					<content
+						src="042.smil#sm_3865" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_122"
+					playOrder="122">
+					<navLabel>
+						<text>Lesson 4- At Village Home</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.3593878"
+							src="aud044.mp3" />
+					</navLabel>
+					<content
+						src="043.smil#sm_3911" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_125"
+					playOrder="125">
+					<navLabel>
+						<text>Lesson 5- In the Classroom</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.4443764"
+							src="aud045.mp3" />
+					</navLabel>
+					<content
+						src="044.smil#sm_3945" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_128"
+					playOrder="128">
+					<navLabel>
+						<text>Lesson 6- Review Lesson</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.3943764"
+							src="aud046.mp3" />
+					</navLabel>
+					<content
+						src="045.smil#sm_3988" />
+				</navPoint>
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_130"
+				playOrder="130">
+				<navLabel>
+					<text>Unit - 5- Rhymes and Sounds</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.0793651"
+						src="aud047.mp3" />
+				</navLabel>
+				<content
+					src="046.smil#sm_4027" />
+				<navPoint
+					class="h3"
+					id="ncx_132"
+					playOrder="132">
+					<navLabel>
+						<text>Lesson 1- Animal Sounds</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.4643537"
+							src="aud048.mp3" />
+					</navLabel>
+					<content
+						src="047.smil#sm_4039" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_136"
+					playOrder="136">
+					<navLabel>
+						<text>Lesson 2- Where Do You Live?</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.4194104"
+							src="aud049.mp3" />
+					</navLabel>
+					<content
+						src="048.smil#sm_4300" />
+				</navPoint>
+				<navPoint
+					class="h3"
+					id="ncx_140"
+					playOrder="140">
+					<navLabel>
+						<text>Lesson 3- A Family Tree</text>
+						<audio
+							clipBegin="00:00:00"
+							clipEnd="00:00:02.5043991"
+							src="aud050.mp3" />
+					</navLabel>
+					<content
+						src="049.smil#sm_4481" />
+				</navPoint>
+			</navPoint>
+		</navPoint>
+	</navMap>
+	<pageList>
+		<pageTarget
+			id="ncx_4"
+			class="pagenum"
+			playOrder="4"
+			type="normal"
+			value="1">
+			<navLabel>
+				<text>1</text>
+				<audio
+					clipBegin="00:03:31.5599320"
+					clipEnd="00:03:32.8094104"
+					src="aud005.mp3" />
+			</navLabel>
+			<content
+				src="004.smil#sm_523" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_6"
+			class="pagenum"
+			playOrder="6"
+			type="normal"
+			value="2">
+			<navLabel>
+				<text>2</text>
+				<audio
+					clipBegin="00:00:05.8337415"
+					clipEnd="00:00:06.9582086"
+					src="aud006.mp3" />
+			</navLabel>
+			<content
+				src="005.smil#sm_535" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_8"
+			class="pagenum"
+			playOrder="8"
+			type="normal"
+			value="3">
+			<navLabel>
+				<text>3</text>
+				<audio
+					clipBegin="00:00:39.4362358"
+					clipEnd="00:00:40.6756916"
+					src="aud007.mp3" />
+			</navLabel>
+			<content
+				src="006.smil#sm_583" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_9"
+			class="pagenum"
+			playOrder="9"
+			type="normal"
+			value="4">
+			<navLabel>
+				<text>4</text>
+				<audio
+					clipBegin="00:00:56.7130839"
+					clipEnd="00:00:57.9825397"
+					src="aud007.mp3" />
+			</navLabel>
+			<content
+				src="006.smil#sm_599" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_11"
+			class="pagenum"
+			playOrder="11"
+			type="normal"
+			value="5">
+			<navLabel>
+				<text>5</text>
+				<audio
+					clipBegin="00:00:55.9442857"
+					clipEnd="00:00:57.2687528"
+					src="aud008.mp3" />
+			</navLabel>
+			<content
+				src="007.smil#sm_629" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_13"
+			class="pagenum"
+			playOrder="13"
+			type="normal"
+			value="6">
+			<navLabel>
+				<text>6</text>
+				<audio
+					clipBegin="00:00:56.8331746"
+					clipEnd="00:00:58.1976190"
+					src="aud009.mp3" />
+			</navLabel>
+			<content
+				src="008.smil#sm_665" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_14"
+			class="pagenum"
+			playOrder="14"
+			type="normal"
+			value="7">
+			<navLabel>
+				<text>7</text>
+				<audio
+					clipBegin="00:01:18.7963719"
+					clipEnd="00:01:20.1658277"
+					src="aud009.mp3" />
+			</navLabel>
+			<content
+				src="008.smil#sm_707" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_16"
+			class="pagenum"
+			playOrder="16"
+			type="normal"
+			value="8">
+			<navLabel>
+				<text>8</text>
+				<audio
+					clipBegin="00:01:00.7567120"
+					clipEnd="00:01:01.9111791"
+					src="aud010.mp3" />
+			</navLabel>
+			<content
+				src="009.smil#sm_821" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_18"
+			class="pagenum"
+			playOrder="18"
+			type="normal"
+			value="9">
+			<navLabel>
+				<text>9</text>
+				<audio
+					clipBegin="00:00:53.7522676"
+					clipEnd="00:00:55.0567347"
+					src="aud011.mp3" />
+			</navLabel>
+			<content
+				src="010.smil#sm_903" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_20"
+			class="pagenum"
+			playOrder="20"
+			type="normal"
+			value="10">
+			<navLabel>
+				<text>10</text>
+				<audio
+					clipBegin="00:00:58.4191383"
+					clipEnd="00:00:59.6835828"
+					src="aud012.mp3" />
+			</navLabel>
+			<content
+				src="011.smil#sm_957" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_21"
+			class="pagenum"
+			playOrder="21"
+			type="normal"
+			value="11">
+			<navLabel>
+				<text>11</text>
+				<audio
+					clipBegin="00:01:41.6855329"
+					clipEnd="00:01:43.0599773"
+					src="aud012.mp3" />
+			</navLabel>
+			<content
+				src="011.smil#sm_1000" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_23"
+			class="pagenum"
+			playOrder="23"
+			type="normal"
+			value="12">
+			<navLabel>
+				<text>12</text>
+				<audio
+					clipBegin="00:00:05.4187528"
+					clipEnd="00:00:06.7932200"
+					src="aud013.mp3" />
+			</navLabel>
+			<content
+				src="012.smil#sm_1012" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_25"
+			class="pagenum"
+			playOrder="25"
+			type="normal"
+			value="13">
+			<navLabel>
+				<text>13</text>
+				<audio
+					clipBegin="00:00:30.6627211"
+					clipEnd="00:00:32.0671882"
+					src="aud014.mp3" />
+			</navLabel>
+			<content
+				src="013.smil#sm_1054" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_26"
+			class="pagenum"
+			playOrder="26"
+			type="normal"
+			value="14">
+			<navLabel>
+				<text>14</text>
+				<audio
+					clipBegin="00:00:36.5310431"
+					clipEnd="00:00:38.0154875"
+					src="aud014.mp3" />
+			</navLabel>
+			<content
+				src="013.smil#sm_1064" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_28"
+			class="pagenum"
+			playOrder="28"
+			type="normal"
+			value="15">
+			<navLabel>
+				<text>15</text>
+				<audio
+					clipBegin="00:00:40.4710658"
+					clipEnd="00:00:41.8955329"
+					src="aud015.mp3" />
+			</navLabel>
+			<content
+				src="014.smil#sm_1151" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_29"
+			class="pagenum"
+			playOrder="29"
+			type="normal"
+			value="16">
+			<navLabel>
+				<text>16</text>
+				<audio
+					clipBegin="00:01:00.0558957"
+					clipEnd="00:01:01.5753061"
+					src="aud015.mp3" />
+			</navLabel>
+			<content
+				src="014.smil#sm_1179" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_30"
+			class="pagenum"
+			playOrder="30"
+			type="normal"
+			value="17">
+			<navLabel>
+				<text>17</text>
+				<audio
+					clipBegin="00:01:46.9137642"
+					clipEnd="00:01:48.5431973"
+					src="aud015.mp3" />
+			</navLabel>
+			<content
+				src="014.smil#sm_1219" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_32"
+			class="pagenum"
+			playOrder="32"
+			type="normal"
+			value="18">
+			<navLabel>
+				<text>18</text>
+				<audio
+					clipBegin="00:00:47.8757596"
+					clipEnd="00:00:49.2302041"
+					src="aud016.mp3" />
+			</navLabel>
+			<content
+				src="015.smil#sm_1306" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_33"
+			class="pagenum"
+			playOrder="33"
+			type="normal"
+			value="19">
+			<navLabel>
+				<text>19</text>
+				<audio
+					clipBegin="00:01:08.4605442"
+					clipEnd="00:01:09.9550113"
+					src="aud016.mp3" />
+			</navLabel>
+			<content
+				src="015.smil#sm_1334" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_34"
+			class="pagenum"
+			playOrder="34"
+			type="normal"
+			value="20">
+			<navLabel>
+				<text>20</text>
+				<audio
+					clipBegin="00:01:36.6704308"
+					clipEnd="00:01:38.0148753"
+					src="aud016.mp3" />
+			</navLabel>
+			<content
+				src="015.smil#sm_1358" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_36"
+			class="pagenum"
+			playOrder="36"
+			type="normal"
+			value="21">
+			<navLabel>
+				<text>21</text>
+				<audio
+					clipBegin="00:00:24.3744444"
+					clipEnd="00:00:25.9938776"
+					src="aud017.mp3" />
+			</navLabel>
+			<content
+				src="016.smil#sm_1394" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_37"
+			class="pagenum"
+			playOrder="37"
+			type="normal"
+			value="22">
+			<navLabel>
+				<text>22</text>
+				<audio
+					clipBegin="00:00:44.4254195"
+					clipEnd="00:00:45.9798639"
+					src="aud017.mp3" />
+			</navLabel>
+			<content
+				src="016.smil#sm_1413" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_39"
+			class="pagenum"
+			playOrder="39"
+			type="normal"
+			value="23">
+			<navLabel>
+				<text>23</text>
+				<audio
+					clipBegin="00:00:38.2249433"
+					clipEnd="00:00:39.8643537"
+					src="aud018.mp3" />
+			</navLabel>
+			<content
+				src="017.smil#sm_1476" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_41"
+			class="pagenum"
+			playOrder="41"
+			type="normal"
+			value="24">
+			<navLabel>
+				<text>24</text>
+				<audio
+					clipBegin="00:00:46.6207029"
+					clipEnd="00:00:48.2651247"
+					src="aud019.mp3" />
+			</navLabel>
+			<content
+				src="018.smil#sm_1563" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_42"
+			class="pagenum"
+			playOrder="42"
+			type="normal"
+			value="25">
+			<navLabel>
+				<text>25</text>
+				<audio
+					clipBegin="00:01:07.8054422"
+					clipEnd="00:01:09.4998639"
+					src="aud019.mp3" />
+			</navLabel>
+			<content
+				src="018.smil#sm_1591" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_43"
+			class="pagenum"
+			playOrder="43"
+			type="normal"
+			value="26">
+			<navLabel>
+				<text>26</text>
+				<audio
+					clipBegin="00:01:39.9693424"
+					clipEnd="00:01:41.7337415"
+					src="aud019.mp3" />
+			</navLabel>
+			<content
+				src="018.smil#sm_1621" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_45"
+			class="pagenum"
+			playOrder="45"
+			type="normal"
+			value="27">
+			<navLabel>
+				<text>27</text>
+				<audio
+					clipBegin="00:00:25.0193878"
+					clipEnd="00:00:26.7687755"
+					src="aud020.mp3" />
+			</navLabel>
+			<content
+				src="019.smil#sm_1657" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_46"
+			class="pagenum"
+			playOrder="46"
+			type="normal"
+			value="28">
+			<navLabel>
+				<text>28</text>
+				<audio
+					clipBegin="00:01:01.7375283"
+					clipEnd="00:01:03.3119728"
+					src="aud020.mp3" />
+			</navLabel>
+			<content
+				src="019.smil#sm_1688" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_48"
+			class="pagenum"
+			playOrder="48"
+			type="normal"
+			value="29">
+			<navLabel>
+				<text>29</text>
+				<audio
+					clipBegin="00:00:35.9607483"
+					clipEnd="00:00:37.6251701"
+					src="aud021.mp3" />
+			</navLabel>
+			<content
+				src="020.smil#sm_1743" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_50"
+			class="pagenum"
+			playOrder="50"
+			type="normal"
+			value="30">
+			<navLabel>
+				<text>30</text>
+				<audio
+					clipBegin="00:00:46.2758730"
+					clipEnd="00:00:47.5403175"
+					src="aud022.mp3" />
+			</navLabel>
+			<content
+				src="021.smil#sm_1830" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_51"
+			class="pagenum"
+			playOrder="51"
+			type="normal"
+			value="31">
+			<navLabel>
+				<text>31</text>
+				<audio
+					clipBegin="00:01:07.5956236"
+					clipEnd="00:01:09.1600680"
+					src="aud022.mp3" />
+			</navLabel>
+			<content
+				src="021.smil#sm_1858" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_52"
+			class="pagenum"
+			playOrder="52"
+			type="normal"
+			value="32">
+			<navLabel>
+				<text>32</text>
+				<audio
+					clipBegin="00:01:36.3582993"
+					clipEnd="00:01:37.8577551"
+					src="aud022.mp3" />
+			</navLabel>
+			<content
+				src="021.smil#sm_1898" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_54"
+			class="pagenum"
+			playOrder="54"
+			type="normal"
+			value="33">
+			<navLabel>
+				<text>33</text>
+				<audio
+					clipBegin="00:00:29.0288209"
+					clipEnd="00:00:30.6132426"
+					src="aud023.mp3" />
+			</navLabel>
+			<content
+				src="022.smil#sm_1937" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_56"
+			class="pagenum"
+			playOrder="56"
+			type="normal"
+			value="34">
+			<navLabel>
+				<text>34</text>
+				<audio
+					clipBegin="00:00:47.3024490"
+					clipEnd="00:00:48.8918821"
+					src="aud024.mp3" />
+			</navLabel>
+			<content
+				src="023.smil#sm_1977" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_58"
+			class="pagenum"
+			playOrder="58"
+			type="normal"
+			value="35">
+			<navLabel>
+				<text>35</text>
+				<audio
+					clipBegin="00:00:49.4106576"
+					clipEnd="00:00:51.0500907"
+					src="aud025.mp3" />
+			</navLabel>
+			<content
+				src="024.smil#sm_2064" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_59"
+			class="pagenum"
+			playOrder="59"
+			type="normal"
+			value="36">
+			<navLabel>
+				<text>36</text>
+				<audio
+					clipBegin="00:01:10.8303401"
+					clipEnd="00:01:12.5397506"
+					src="aud025.mp3" />
+			</navLabel>
+			<content
+				src="024.smil#sm_2092" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_60"
+			class="pagenum"
+			playOrder="60"
+			type="normal"
+			value="37">
+			<navLabel>
+				<text>37</text>
+				<audio
+					clipBegin="00:02:09.1820181"
+					clipEnd="00:02:10.8764172"
+					src="aud025.mp3" />
+			</navLabel>
+			<content
+				src="024.smil#sm_2128" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_62"
+			class="pagenum"
+			playOrder="62"
+			type="normal"
+			value="38">
+			<navLabel>
+				<text>38</text>
+				<audio
+					clipBegin="00:00:24.7244218"
+					clipEnd="00:00:26.2438549"
+					src="aud026.mp3" />
+			</navLabel>
+			<content
+				src="025.smil#sm_2164" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_63"
+			class="pagenum"
+			playOrder="63"
+			type="normal"
+			value="39">
+			<navLabel>
+				<text>39</text>
+				<audio
+					clipBegin="00:00:45.6250567"
+					clipEnd="00:00:47.2344898"
+					src="aud026.mp3" />
+			</navLabel>
+			<content
+				src="025.smil#sm_2186" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_65"
+			class="pagenum"
+			playOrder="65"
+			type="normal"
+			value="40">
+			<navLabel>
+				<text>40</text>
+				<audio
+					clipBegin="00:00:51.4350794"
+					clipEnd="00:00:52.8095465"
+					src="aud027.mp3" />
+			</navLabel>
+			<content
+				src="026.smil#sm_2276" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_66"
+			class="pagenum"
+			playOrder="66"
+			type="normal"
+			value="41">
+			<navLabel>
+				<text>41</text>
+				<audio
+					clipBegin="00:01:12.7198866"
+					clipEnd="00:01:14.3743311"
+					src="aud027.mp3" />
+			</navLabel>
+			<content
+				src="026.smil#sm_2304" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_67"
+			class="pagenum"
+			playOrder="67"
+			type="normal"
+			value="42">
+			<navLabel>
+				<text>42</text>
+				<audio
+					clipBegin="00:02:29.1373923"
+					clipEnd="00:02:30.7268481"
+					src="aud027.mp3" />
+			</navLabel>
+			<content
+				src="026.smil#sm_2362" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_69"
+			class="pagenum"
+			playOrder="69"
+			type="normal"
+			value="43">
+			<navLabel>
+				<text>43</text>
+				<audio
+					clipBegin="00:00:50.3155102"
+					clipEnd="00:00:51.9849433"
+					src="aud028.mp3" />
+			</navLabel>
+			<content
+				src="027.smil#sm_2449" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_70"
+			class="pagenum"
+			playOrder="70"
+			type="normal"
+			value="44">
+			<navLabel>
+				<text>44</text>
+				<audio
+					clipBegin="00:01:11.7252154"
+					clipEnd="00:01:13.4046485"
+					src="aud028.mp3" />
+			</navLabel>
+			<content
+				src="027.smil#sm_2477" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_71"
+			class="pagenum"
+			playOrder="71"
+			type="normal"
+			value="45">
+			<navLabel>
+				<text>45</text>
+				<audio
+					clipBegin="00:02:19.8592971"
+					clipEnd="00:02:21.5937415"
+					src="aud028.mp3" />
+			</navLabel>
+			<content
+				src="027.smil#sm_2531" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_73"
+			class="pagenum"
+			playOrder="73"
+			type="normal"
+			value="46">
+			<navLabel>
+				<text>46</text>
+				<audio
+					clipBegin="00:00:24.8843537"
+					clipEnd="00:00:26.6787755"
+					src="aud029.mp3" />
+			</navLabel>
+			<content
+				src="028.smil#sm_2567" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_74"
+			class="pagenum"
+			playOrder="74"
+			type="normal"
+			value="47">
+			<navLabel>
+				<text>47</text>
+				<audio
+					clipBegin="00:00:49.6447392"
+					clipEnd="00:00:51.4291610"
+					src="aud029.mp3" />
+			</navLabel>
+			<content
+				src="028.smil#sm_2589" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_75"
+			class="pagenum"
+			playOrder="75"
+			type="normal"
+			value="48">
+			<navLabel>
+				<text>48</text>
+				<audio
+					clipBegin="00:01:12.9591383"
+					clipEnd="00:01:14.5636054"
+					src="aud029.mp3" />
+			</navLabel>
+			<content
+				src="028.smil#sm_2620" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_77"
+			class="pagenum"
+			playOrder="77"
+			type="normal"
+			value="49">
+			<navLabel>
+				<text>49</text>
+				<audio
+					clipBegin="00:00:48.9656916"
+					clipEnd="00:00:50.6651247"
+					src="aud030.mp3" />
+			</navLabel>
+			<content
+				src="029.smil#sm_2707" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_78"
+			class="pagenum"
+			playOrder="78"
+			type="normal"
+			value="50">
+			<navLabel>
+				<text>50</text>
+				<audio
+					clipBegin="00:01:10.3804308"
+					clipEnd="00:01:11.7448980"
+					src="aud030.mp3" />
+			</navLabel>
+			<content
+				src="029.smil#sm_2735" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_79"
+			class="pagenum"
+			playOrder="79"
+			type="normal"
+			value="51">
+			<navLabel>
+				<text>51</text>
+				<audio
+					clipBegin="00:01:36.0279138"
+					clipEnd="00:01:37.6523583"
+					src="aud030.mp3" />
+			</navLabel>
+			<content
+				src="029.smil#sm_2781" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_81"
+			class="pagenum"
+			playOrder="81"
+			type="normal"
+			value="52">
+			<navLabel>
+				<text>52</text>
+				<audio
+					clipBegin="00:00:49.3055556"
+					clipEnd="00:00:50.8650113"
+					src="aud031.mp3" />
+			</navLabel>
+			<content
+				src="030.smil#sm_2868" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_82"
+			class="pagenum"
+			playOrder="82"
+			type="normal"
+			value="53">
+			<navLabel>
+				<text>53</text>
+				<audio
+					clipBegin="00:01:10.8052834"
+					clipEnd="00:01:12.4497052"
+					src="aud031.mp3" />
+			</navLabel>
+			<content
+				src="030.smil#sm_2896" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_83"
+			class="pagenum"
+			playOrder="83"
+			type="normal"
+			value="54">
+			<navLabel>
+				<text>54</text>
+				<audio
+					clipBegin="00:02:08.8496599"
+					clipEnd="00:02:10.4990930"
+					src="aud031.mp3" />
+			</navLabel>
+			<content
+				src="030.smil#sm_2942" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_85"
+			class="pagenum"
+			playOrder="85"
+			type="normal"
+			value="55">
+			<navLabel>
+				<text>55</text>
+				<audio
+					clipBegin="00:00:48.8505442"
+					clipEnd="00:00:50.5499773"
+					src="aud032.mp3" />
+			</navLabel>
+			<content
+				src="031.smil#sm_3029" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_86"
+			class="pagenum"
+			playOrder="86"
+			type="normal"
+			value="56">
+			<navLabel>
+				<text>56</text>
+				<audio
+					clipBegin="00:01:10.5702268"
+					clipEnd="00:01:12.3396372"
+					src="aud032.mp3" />
+			</navLabel>
+			<content
+				src="031.smil#sm_3057" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_87"
+			class="pagenum"
+			playOrder="87"
+			type="normal"
+			value="57">
+			<navLabel>
+				<text>57</text>
+				<audio
+					clipBegin="00:01:38.5999093"
+					clipEnd="00:01:40.3543084"
+					src="aud032.mp3" />
+			</navLabel>
+			<content
+				src="031.smil#sm_3088" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_89"
+			class="pagenum"
+			playOrder="89"
+			type="normal"
+			value="58">
+			<navLabel>
+				<text>58</text>
+				<audio
+					clipBegin="00:00:48.1419274"
+					clipEnd="00:00:49.7213832"
+					src="aud033.mp3" />
+			</navLabel>
+			<content
+				src="032.smil#sm_3164" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_90"
+			class="pagenum"
+			playOrder="90"
+			type="normal"
+			value="59">
+			<navLabel>
+				<text>59</text>
+				<audio
+					clipBegin="00:01:05.9727211"
+					clipEnd="00:01:07.6421542"
+					src="aud033.mp3" />
+			</navLabel>
+			<content
+				src="032.smil#sm_3186" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_91"
+			class="pagenum"
+			playOrder="91"
+			type="normal"
+			value="60">
+			<navLabel>
+				<text>60</text>
+				<audio
+					clipBegin="00:02:08.3790023"
+					clipEnd="00:02:09.8134240"
+					src="aud033.mp3" />
+			</navLabel>
+			<content
+				src="032.smil#sm_3222" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_93"
+			class="pagenum"
+			playOrder="93"
+			type="normal"
+			value="61">
+			<navLabel>
+				<text>61</text>
+				<audio
+					clipBegin="00:00:42.8932200"
+					clipEnd="00:00:44.5876417"
+					src="aud034.mp3" />
+			</navLabel>
+			<content
+				src="033.smil#sm_3292" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_94"
+			class="pagenum"
+			playOrder="94"
+			type="normal"
+			value="62">
+			<navLabel>
+				<text>62</text>
+				<audio
+					clipBegin="00:00:57.6497052"
+					clipEnd="00:00:59.2641270"
+					src="aud034.mp3" />
+			</navLabel>
+			<content
+				src="033.smil#sm_3311" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_95"
+			class="pagenum"
+			playOrder="95"
+			type="normal"
+			value="63">
+			<navLabel>
+				<text>63</text>
+				<audio
+					clipBegin="00:01:37.2268934"
+					clipEnd="00:01:38.9363039"
+					src="aud034.mp3" />
+			</navLabel>
+			<content
+				src="033.smil#sm_3352" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_97"
+			class="pagenum"
+			playOrder="97"
+			type="normal"
+			value="64">
+			<navLabel>
+				<text>64</text>
+				<audio
+					clipBegin="00:00:10.8625624"
+					clipEnd="00:00:12.5819728"
+					src="aud035.mp3" />
+			</navLabel>
+			<content
+				src="034.smil#sm_3370" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_99"
+			class="pagenum"
+			playOrder="99"
+			type="normal"
+			value="65">
+			<navLabel>
+				<text>65</text>
+				<audio
+					clipBegin="00:00:06.5087302"
+					clipEnd="00:00:08.2831519"
+					src="aud036.mp3" />
+			</navLabel>
+			<content
+				src="035.smil#sm_3382" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_101"
+			class="pagenum"
+			playOrder="101"
+			type="normal"
+			value="66">
+			<navLabel>
+				<text>66</text>
+				<audio
+					clipBegin="00:00:33.8063946"
+					clipEnd="00:00:35.6407937"
+					src="aud037.mp3" />
+			</navLabel>
+			<content
+				src="036.smil#sm_3403" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_102"
+			class="pagenum"
+			playOrder="102"
+			type="normal"
+			value="67">
+			<navLabel>
+				<text>67</text>
+				<audio
+					clipBegin="00:01:50.9749433"
+					clipEnd="00:01:52.7993424"
+					src="aud037.mp3" />
+			</navLabel>
+			<content
+				src="036.smil#sm_3485" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_104"
+			class="pagenum"
+			playOrder="104"
+			type="normal"
+			value="68">
+			<navLabel>
+				<text>68</text>
+				<audio
+					clipBegin="00:00:29.6414739"
+					clipEnd="00:00:31.2859184"
+					src="aud038.mp3" />
+			</navLabel>
+			<content
+				src="037.smil#sm_3506" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_105"
+			class="pagenum"
+			playOrder="105"
+			type="normal"
+			value="69">
+			<navLabel>
+				<text>69</text>
+				<audio
+					clipBegin="00:00:50.7315420"
+					clipEnd="00:00:52.4709524"
+					src="aud038.mp3" />
+			</navLabel>
+			<content
+				src="037.smil#sm_3534" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_106"
+			class="pagenum"
+			playOrder="106"
+			type="normal"
+			value="70">
+			<navLabel>
+				<text>70</text>
+				<audio
+					clipBegin="00:01:54.4337642"
+					clipEnd="00:01:55.9182313"
+					src="aud038.mp3" />
+			</navLabel>
+			<content
+				src="037.smil#sm_3597" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_108"
+			class="pagenum"
+			playOrder="108"
+			type="normal"
+			value="71">
+			<navLabel>
+				<text>71</text>
+				<audio
+					clipBegin="00:00:34.2254195"
+					clipEnd="00:00:35.9848753"
+					src="aud039.mp3" />
+			</navLabel>
+			<content
+				src="038.smil#sm_3624" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_109"
+			class="pagenum"
+			playOrder="109"
+			type="normal"
+			value="72">
+			<navLabel>
+				<text>72</text>
+				<audio
+					clipBegin="00:00:55.9302041"
+					clipEnd="00:00:57.6196599"
+					src="aud039.mp3" />
+			</navLabel>
+			<content
+				src="038.smil#sm_3652" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_110"
+			class="pagenum"
+			playOrder="110"
+			type="normal"
+			value="73">
+			<navLabel>
+				<text>73</text>
+				<audio
+					clipBegin="00:01:29.5610204"
+					clipEnd="00:01:31.3354649"
+					src="aud039.mp3" />
+			</navLabel>
+			<content
+				src="038.smil#sm_3671" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_111"
+			class="pagenum"
+			playOrder="111"
+			type="normal"
+			value="74">
+			<navLabel>
+				<text>74</text>
+				<audio
+					clipBegin="00:01:56.9677778"
+					clipEnd="00:01:58.7522222"
+					src="aud039.mp3" />
+			</navLabel>
+			<content
+				src="038.smil#sm_3717" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_113"
+			class="pagenum"
+			playOrder="113"
+			type="normal"
+			value="75">
+			<navLabel>
+				<text>75</text>
+				<audio
+					clipBegin="00:00:06.4136961"
+					clipEnd="00:00:08.2531519"
+					src="aud040.mp3" />
+			</navLabel>
+			<content
+				src="039.smil#sm_3729" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_115"
+			class="pagenum"
+			playOrder="115"
+			type="normal"
+			value="76">
+			<navLabel>
+				<text>76</text>
+				<audio
+					clipBegin="00:00:49.7851020"
+					clipEnd="00:00:51.6845351"
+					src="aud041.mp3" />
+			</navLabel>
+			<content
+				src="040.smil#sm_3817" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_117"
+			class="pagenum"
+			playOrder="117"
+			type="normal"
+			value="77">
+			<navLabel>
+				<text>77</text>
+				<audio
+					clipBegin="00:00:12.9722449"
+					clipEnd="00:00:14.8566667"
+					src="aud042.mp3" />
+			</navLabel>
+			<content
+				src="041.smil#sm_3835" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_118"
+			class="pagenum"
+			playOrder="118"
+			type="normal"
+			value="78">
+			<navLabel>
+				<text>78</text>
+				<audio
+					clipBegin="00:00:48.9019274"
+					clipEnd="00:00:50.6114059"
+					src="aud042.mp3" />
+			</navLabel>
+			<content
+				src="041.smil#sm_3860" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_120"
+			class="pagenum"
+			playOrder="120"
+			type="normal"
+			value="79">
+			<navLabel>
+				<text>79</text>
+				<audio
+					clipBegin="00:00:14.3722222"
+					clipEnd="00:00:16.1766667"
+					src="aud043.mp3" />
+			</navLabel>
+			<content
+				src="042.smil#sm_3878" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_121"
+			class="pagenum"
+			playOrder="121"
+			type="normal"
+			value="80">
+			<navLabel>
+				<text>80</text>
+				<audio
+					clipBegin="00:00:52.4963492"
+					clipEnd="00:00:53.7058050"
+					src="aud043.mp3" />
+			</navLabel>
+			<content
+				src="042.smil#sm_3906" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_123"
+			class="pagenum"
+			playOrder="123"
+			type="normal"
+			value="81">
+			<navLabel>
+				<text>81</text>
+				<audio
+					clipBegin="00:00:14.5821995"
+					clipEnd="00:00:16.0866440"
+					src="aud044.mp3" />
+			</navLabel>
+			<content
+				src="043.smil#sm_3924" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_124"
+			class="pagenum"
+			playOrder="124"
+			type="normal"
+			value="82">
+			<navLabel>
+				<text>82</text>
+				<audio
+					clipBegin="00:00:31.6639683"
+					clipEnd="00:00:33.1034240"
+					src="aud044.mp3" />
+			</navLabel>
+			<content
+				src="043.smil#sm_3940" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_126"
+			class="pagenum"
+			playOrder="126"
+			type="normal"
+			value="83">
+			<navLabel>
+				<text>83</text>
+				<audio
+					clipBegin="00:00:13.0372789"
+					clipEnd="00:00:14.5617007"
+					src="aud045.mp3" />
+			</navLabel>
+			<content
+				src="044.smil#sm_3958" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_127"
+			class="pagenum"
+			playOrder="127"
+			type="normal"
+			value="84">
+			<navLabel>
+				<text>84</text>
+				<audio
+					clipBegin="00:00:48.6469615"
+					clipEnd="00:00:50.1763946"
+					src="aud045.mp3" />
+			</navLabel>
+			<content
+				src="044.smil#sm_3983" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_129"
+			class="pagenum"
+			playOrder="129"
+			type="normal"
+			value="85">
+			<navLabel>
+				<text>85</text>
+				<audio
+					clipBegin="00:00:34.1777551"
+					clipEnd="00:00:35.7571882"
+					src="aud046.mp3" />
+			</navLabel>
+			<content
+				src="045.smil#sm_4022" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_131"
+			class="pagenum"
+			playOrder="131"
+			type="normal"
+			value="86">
+			<navLabel>
+				<text>86</text>
+				<audio
+					clipBegin="00:00:05.7187755"
+					clipEnd="00:00:07.3681859"
+					src="aud047.mp3" />
+			</navLabel>
+			<content
+				src="046.smil#sm_4034" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_133"
+			class="pagenum"
+			playOrder="133"
+			type="normal"
+			value="87">
+			<navLabel>
+				<text>87</text>
+				<audio
+					clipBegin="00:00:54.7577551"
+					clipEnd="00:00:56.3921542"
+					src="aud048.mp3" />
+			</navLabel>
+			<content
+				src="047.smil#sm_4102" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_134"
+			class="pagenum"
+			playOrder="134"
+			type="normal"
+			value="88">
+			<navLabel>
+				<text>88</text>
+				<audio
+					clipBegin="00:02:06.2560091"
+					clipEnd="00:02:07.7154649"
+					src="aud048.mp3" />
+			</navLabel>
+			<content
+				src="047.smil#sm_4192" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_135"
+			class="pagenum"
+			playOrder="135"
+			type="normal"
+			value="89">
+			<navLabel>
+				<text>89</text>
+				<audio
+					clipBegin="00:03:21.0821542"
+					clipEnd="00:03:22.6315873"
+					src="aud048.mp3" />
+			</navLabel>
+			<content
+				src="047.smil#sm_4295" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_137"
+			class="pagenum"
+			playOrder="137"
+			type="normal"
+			value="90">
+			<navLabel>
+				<text>90</text>
+				<audio
+					clipBegin="00:01:17.0185034"
+					clipEnd="00:01:18.3579819"
+					src="aud049.mp3" />
+			</navLabel>
+			<content
+				src="048.smil#sm_4385" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_138"
+			class="pagenum"
+			playOrder="138"
+			type="normal"
+			value="91">
+			<navLabel>
+				<text>91</text>
+				<audio
+					clipBegin="00:02:02.3763039"
+					clipEnd="00:02:03.9957596"
+					src="aud049.mp3" />
+			</navLabel>
+			<content
+				src="048.smil#sm_4454" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_139"
+			class="pagenum"
+			playOrder="139"
+			type="normal"
+			value="92">
+			<navLabel>
+				<text>92</text>
+				<audio
+					clipBegin="00:02:22.2267800"
+					clipEnd="00:02:23.7812472"
+					src="aud049.mp3" />
+			</navLabel>
+			<content
+				src="048.smil#sm_4476" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_141"
+			class="pagenum"
+			playOrder="141"
+			type="normal"
+			value="93">
+			<navLabel>
+				<text>93</text>
+				<audio
+					clipBegin="00:00:38.5409524"
+					clipEnd="00:00:40.1753968"
+					src="aud050.mp3" />
+			</navLabel>
+			<content
+				src="049.smil#sm_4534" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_142"
+			class="pagenum"
+			playOrder="142"
+			type="normal"
+			value="94">
+			<navLabel>
+				<text>94</text>
+				<audio
+					clipBegin="00:00:53.7519274"
+					clipEnd="00:00:55.3963719"
+					src="aud050.mp3" />
+			</navLabel>
+			<content
+				src="049.smil#sm_4556" />
+		</pageTarget>
+	</pageList>
+</ncx>

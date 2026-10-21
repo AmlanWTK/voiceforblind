@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+	<head>
+		<meta
+			name="dtb:uid"
+			content="AUTO-UID-5622526195009130373" />
+		<meta
+			name="dtb:generator"
+			content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+		<meta
+			name="dtb:totalElapsedTime"
+			content="00:41:14.2962815" />
+		<customAttributes>
+			<customTest
+				defaultState="false"
+				id="pagenum"
+				override="visible" />
+		</customAttributes>
+	</head>
+	<body>
+		<seq
+			id="sm_2718"
+			dur="00:01:19.2131293"
+			fill="remove">
+			<seq
+				id="sm_2719"
+				class="h2">
+				<par
+					id="sm_2720">
+					<text
+						id="sm_2721"
+						src="dtbook.xml#dtb_1827" />
+					<audio
+						id="sm_2722"
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.7500000"
+						src="aud039.mp3" />
+				</par>
+			</seq>
+			<par
+				id="sm_2723">
+				<text
+					id="sm_2724"
+					src="dtbook.xml#dtb_1828" />
+				<audio
+					id="sm_2725"
+					clipBegin="00:00:03.7500000"
+					clipEnd="00:00:05.7500000"
+					src="aud039.mp3" />
+			</par>
+			<par
+				id="sm_2726">
+				<text
+					id="sm_2727"
+					src="dtbook.xml#dtb_1832" />
+				<audio
+					id="sm_2728"
+					clipBegin="00:00:05.7500000"
+					clipEnd="00:00:11.8000000"
+					src="aud039.mp3" />
+			</par>
+			<par
+				id="sm_2729">
+				<text
+					id="sm_2730"
+					src="dtbook.xml#dtb_1833" />
+				<audio
+					id="sm_2731"
+					clipBegin="00:00:11.8000000"
+					clipEnd="00:00:16.8400000"
+					src="aud039.mp3" />
+			</par>
+			<par
+				id="sm_2732">
+				<text
+					id="sm_2733"
+					src="dtbook.xml#dtb_1836" />
+				<audio
+					id="sm_2734"
+					clipBegin="00:00:16.8400000"
+					clipEnd="00:00:23.6738322"
+					src="aud039.mp3" />
+			</par>
+			<par
+				id="sm_2735">
+				<text
+					id="sm_2736"
+					src="dtbook.xml#dtb_1838" />
+				<audio
+					id="sm_2737"
+					clipBegin="00:00:23.6738322"
+					clipEnd="00:00:26.1831293"
+					src="aud039.mp3" />
+			</par>
+			<par
+				id="sm_2738">
+				<text
+					id="sm_2739"
+					src="dtbook.xml#dtb_1841" />
+				<audio
+					id="sm_2740"
+					clipBegin="00:00:26.1831293"
+					clipEnd="00:00:34.6031293"
+					src="aud039.mp3" />
+			</par>
+			<par
+				id="sm_2741">
+				<text
+					id="sm_2742"
+					src="dtbook.xml#dtb_1842" />
+				<audio
+					id="sm_2743"
+					clipBegin="00:00:34.6031293"
+					clipEnd="00:00:37.3231293"
+					src="aud039.mp3" />
+			</par>
+			<par
+				id="sm_2744">
+				<text
+					id="sm_2745"
+					src="dtbook.xml#dtb_1845" />
+				<audio
+					id="sm_2746"
+					clipBegin="00:00:37.3231293"
+					clipEnd="00:00:42.5231293"
+					src="aud039.mp3" />
+			</par>
+			<seq
+				id="sm_2747"
+				class="pagenum"
+				customTest="pagenum">
+				<par
+					id="sm_2748">
+					<text
+						id="sm_2749"
+						src="dtbook.xml#dtb_1846" />
+					<audio
+						id="sm_2750"
+						clipBegin="00:00:42.5231293"
+						clipEnd="00:00:45.8031293"
+						src="aud039.mp3" />
+				</par>
+			</seq>
+			<par
+				id="sm_2751">
+				<text
+					id="sm_2752"
+					src="dtbook.xml#dtb_1847" />
+				<audio
+					id="sm_2753"
+					clipBegin="00:00:45.8031293"
+					clipEnd="00:00:48.4631293"
+					src="aud039.mp3" />
+			</par>
+			<par
+				id="sm_2754">
+				<text
+					id="sm_2755"
+					src="dtbook.xml#dtb_1850" />
+				<audio
+					id="sm_2756"
+					clipBegin="00:00:48.4631293"
+					clipEnd="00:00:51.2031293"
+					src="aud039.mp3" />
+			</par>
+			<par
+				id="sm_2757">
+				<text
+					id="sm_2758"
+					src="dtbook.xml#dtb_1854" />
+				<audio
+					id="sm_2759"
+					clipBegin="00:00:51.2031293"
+					clipEnd="00:00:53.9131293"
+					src="aud039.mp3" />
+			</par>
+			<par
+				id="sm_2760">
+				<text
+					id="sm_2761"
+					src="dtbook.xml#dtb_1858" />
+				<audio
+					id="sm_2762"
+					clipBegin="00:00:53.9131293"
+					clipEnd="00:00:56.7831293"
+					src="aud039.mp3" />
+			</par>
+			<par
+				id="sm_2763">
+				<text
+					id="sm_2764"
+					src="dtbook.xml#dtb_1862" />
+				<audio
+					id="sm_2765"
+					clipBegin="00:00:56.7831293"
+					clipEnd="00:01:00.1431293"
+					src="aud039.mp3" />
+			</par>
+			<par
+				id="sm_2766">
+				<text
+					id="sm_2767"
+					src="dtbook.xml#dtb_1863" />
+				<audio
+					id="sm_2768"
+					clipBegin="00:01:00.1431293"
+					clipEnd="00:01:02.5831293"
+					src="aud039.mp3" />
+			</par>
+			<par
+				id="sm_2769">
+				<text
+					id="sm_2770"
+					src="dtbook.xml#dtb_1864" />
+				<audio
+					id="sm_2771"
+					clipBegin="00:01:02.5831293"
+					clipEnd="00:01:05.1831293"
+					src="aud039.mp3" />
+			</par>
+			<par
+				id="sm_2772">
+				<text
+					id="sm_2773"
+					src="dtbook.xml#dtb_1865" />
+				<audio
+					id="sm_2774"
+					clipBegin="00:01:05.1831293"
+					clipEnd="00:01:06.7431293"
+					src="aud039.mp3" />
+			</par>
+			<seq
+				id="sm_2775"
+				class="table"
+				end="DTBuserEscape;sm_2798.end"
+				fill="remove">
+				<seq
+					id="sm_2776"
+					class="tr"
+					end="DTBuserEscape;sm_2783.end"
+					fill="remove">
+					<par
+						id="sm_2777">
+						<text
+							id="sm_2778"
+							src="dtbook.xml#dtb_1870" />
+						<audio
+							id="sm_2779"
+							clipBegin="00:01:06.7431293"
+							clipEnd="00:01:08.5931293"
+							src="aud039.mp3" />
+					</par>
+					<par
+						id="sm_2780">
+						<text
+							id="sm_2781"
+							src="dtbook.xml#dtb_1872" />
+						<audio
+							id="sm_2782"
+							clipBegin="00:01:08.5931293"
+							clipEnd="00:01:10.1631293"
+							src="aud039.mp3" />
+					</par>
+					<par
+						id="sm_2783">
+						<text
+							id="sm_2784"
+							src="dtbook.xml#dtb_1874" />
+						<audio
+							id="sm_2785"
+							clipBegin="00:01:10.1631293"
+							clipEnd="00:01:12.1231293"
+							src="aud039.mp3" />
+					</par>
+				</seq>
+				<seq
+					id="sm_2786"
+					class="tr"
+					end="DTBuserEscape;sm_2793.end"
+					fill="remove">
+					<par
+						id="sm_2787">
+						<text
+							id="sm_2788"
+							src="dtbook.xml#dtb_1877" />
+						<audio
+							id="sm_2789"
+							clipBegin="00:01:12.1231293"
+							clipEnd="00:01:13.9331293"
+							src="aud039.mp3" />
+					</par>
+					<par
+						id="sm_2790">
+						<text
+							id="sm_2791"
+							src="dtbook.xml#dtb_1879" />
+						<audio
+							id="sm_2792"
+							clipBegin="00:01:13.9331293"
+							clipEnd="00:01:15.5431293"
+							src="aud039.mp3" />
+					</par>
+					<par
+						id="sm_2793">
+						<text
+							id="sm_2794"
+							src="dtbook.xml#dtb_1881" />
+						<audio
+							id="sm_2795"
+							clipBegin="00:01:15.5431293"
+							clipEnd="00:01:17.2431293"
+							src="aud039.mp3" />
+					</par>
+				</seq>
+				<seq
+					id="sm_2796"
+					class="tr"
+					end="DTBuserEscape;sm_2793.end"
+					fill="remove" />
+				<seq
+					id="sm_2797"
+					class="tr"
+					end="DTBuserEscape;sm_2793.end"
+					fill="remove" />
+				<seq
+					id="sm_2798"
+					class="pagenum"
+					customTest="pagenum">
+					<par
+						id="sm_2799">
+						<text
+							id="sm_2800"
+							src="dtbook.xml#dtb_1896" />
+						<audio
+							id="sm_2801"
+							clipBegin="00:01:17.2431293"
+							clipEnd="00:01:19.2131293"
+							src="aud039.mp3" />
+					</par>
+				</seq>
+			</seq>
+		</seq>
+	</body>
+</smil>

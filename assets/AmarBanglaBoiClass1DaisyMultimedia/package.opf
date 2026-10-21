@@ -1,0 +1,1450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE package PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.2 Package//EN" "http://openebook.org/dtds/oeb-1.2/oebpkg12.dtd">
+<package
+	unique-identifier="uid" xmlns="http://openebook.org/namespaces/oeb-package/1.0/">
+	<metadata>
+		<dc-metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+			<dc:Identifier
+				id="uid">AUTO-UID-5622526195009130373</dc:Identifier>
+			<dc:Format>ANSI/NISO Z39.86-2005</dc:Format>
+			<dc:Title>আমার বাংলা বই - প্রথম শ্রেণি</dc:Title>
+			<dc:Creator>প্রণয়নে এনসিটিবি। কারিগরি সহায়তায়: ইপসা এবং এটুআই।</dc:Creator>
+			<dc:Date>2022-12-26</dc:Date>
+			<dc:Publisher>NCTB</dc:Publisher>
+			<dc:Language>en-US</dc:Language>
+			<dc:Language>bn-IN</dc:Language>
+		</dc-metadata>
+		<x-metadata>
+			<meta
+				name="dtb:totalTime"
+				content="01:08:04.9975741" />
+			<meta
+				name="dtb:multimediaType"
+				content="audioFullText" />
+			<meta
+				name="dtb:multimediaContent"
+				content="audio,text" />
+			<meta
+				name="dt:version"
+				content="2.1.1.0" />
+		</x-metadata>
+	</metadata>
+	<manifest>
+		<item
+			href="navigation.ncx"
+			id="ncx"
+			media-type="application/x-dtbncx+xml" />
+		<item
+			href="dtbook.xml"
+			id="opf_1"
+			media-type="application/x-dtbook+xml" />
+		<item
+			href="package.opf"
+			id="opf_2"
+			media-type="text/xml" />
+		<item
+			href="dtbookbasic.css"
+			id="opf_3"
+			media-type="text/css" />
+		<item
+			href="001.smil"
+			id="opf_4"
+			media-type="application/smil" />
+		<item
+			href="002.smil"
+			id="opf_5"
+			media-type="application/smil" />
+		<item
+			href="003.smil"
+			id="opf_6"
+			media-type="application/smil" />
+		<item
+			href="004.smil"
+			id="opf_7"
+			media-type="application/smil" />
+		<item
+			href="005.smil"
+			id="opf_8"
+			media-type="application/smil" />
+		<item
+			href="006.smil"
+			id="opf_9"
+			media-type="application/smil" />
+		<item
+			href="007.smil"
+			id="opf_10"
+			media-type="application/smil" />
+		<item
+			href="008.smil"
+			id="opf_11"
+			media-type="application/smil" />
+		<item
+			href="009.smil"
+			id="opf_12"
+			media-type="application/smil" />
+		<item
+			href="010.smil"
+			id="opf_13"
+			media-type="application/smil" />
+		<item
+			href="011.smil"
+			id="opf_14"
+			media-type="application/smil" />
+		<item
+			href="012.smil"
+			id="opf_15"
+			media-type="application/smil" />
+		<item
+			href="013.smil"
+			id="opf_16"
+			media-type="application/smil" />
+		<item
+			href="014.smil"
+			id="opf_17"
+			media-type="application/smil" />
+		<item
+			href="015.smil"
+			id="opf_18"
+			media-type="application/smil" />
+		<item
+			href="016.smil"
+			id="opf_19"
+			media-type="application/smil" />
+		<item
+			href="017.smil"
+			id="opf_20"
+			media-type="application/smil" />
+		<item
+			href="018.smil"
+			id="opf_21"
+			media-type="application/smil" />
+		<item
+			href="019.smil"
+			id="opf_22"
+			media-type="application/smil" />
+		<item
+			href="020.smil"
+			id="opf_23"
+			media-type="application/smil" />
+		<item
+			href="021.smil"
+			id="opf_24"
+			media-type="application/smil" />
+		<item
+			href="022.smil"
+			id="opf_25"
+			media-type="application/smil" />
+		<item
+			href="023.smil"
+			id="opf_26"
+			media-type="application/smil" />
+		<item
+			href="024.smil"
+			id="opf_27"
+			media-type="application/smil" />
+		<item
+			href="025.smil"
+			id="opf_28"
+			media-type="application/smil" />
+		<item
+			href="026.smil"
+			id="opf_29"
+			media-type="application/smil" />
+		<item
+			href="027.smil"
+			id="opf_30"
+			media-type="application/smil" />
+		<item
+			href="028.smil"
+			id="opf_31"
+			media-type="application/smil" />
+		<item
+			href="029.smil"
+			id="opf_32"
+			media-type="application/smil" />
+		<item
+			href="030.smil"
+			id="opf_33"
+			media-type="application/smil" />
+		<item
+			href="031.smil"
+			id="opf_34"
+			media-type="application/smil" />
+		<item
+			href="032.smil"
+			id="opf_35"
+			media-type="application/smil" />
+		<item
+			href="033.smil"
+			id="opf_36"
+			media-type="application/smil" />
+		<item
+			href="034.smil"
+			id="opf_37"
+			media-type="application/smil" />
+		<item
+			href="035.smil"
+			id="opf_38"
+			media-type="application/smil" />
+		<item
+			href="036.smil"
+			id="opf_39"
+			media-type="application/smil" />
+		<item
+			href="037.smil"
+			id="opf_40"
+			media-type="application/smil" />
+		<item
+			href="038.smil"
+			id="opf_41"
+			media-type="application/smil" />
+		<item
+			href="039.smil"
+			id="opf_42"
+			media-type="application/smil" />
+		<item
+			href="040.smil"
+			id="opf_43"
+			media-type="application/smil" />
+		<item
+			href="041.smil"
+			id="opf_44"
+			media-type="application/smil" />
+		<item
+			href="042.smil"
+			id="opf_45"
+			media-type="application/smil" />
+		<item
+			href="043.smil"
+			id="opf_46"
+			media-type="application/smil" />
+		<item
+			href="044.smil"
+			id="opf_47"
+			media-type="application/smil" />
+		<item
+			href="045.smil"
+			id="opf_48"
+			media-type="application/smil" />
+		<item
+			href="046.smil"
+			id="opf_49"
+			media-type="application/smil" />
+		<item
+			href="047.smil"
+			id="opf_50"
+			media-type="application/smil" />
+		<item
+			href="048.smil"
+			id="opf_51"
+			media-type="application/smil" />
+		<item
+			href="049.smil"
+			id="opf_52"
+			media-type="application/smil" />
+		<item
+			href="050.smil"
+			id="opf_53"
+			media-type="application/smil" />
+		<item
+			href="051.smil"
+			id="opf_54"
+			media-type="application/smil" />
+		<item
+			href="052.smil"
+			id="opf_55"
+			media-type="application/smil" />
+		<item
+			href="053.smil"
+			id="opf_56"
+			media-type="application/smil" />
+		<item
+			href="054.smil"
+			id="opf_57"
+			media-type="application/smil" />
+		<item
+			href="055.smil"
+			id="opf_58"
+			media-type="application/smil" />
+		<item
+			href="056.smil"
+			id="opf_59"
+			media-type="application/smil" />
+		<item
+			href="057.smil"
+			id="opf_60"
+			media-type="application/smil" />
+		<item
+			href="aud001.mp3"
+			id="opf_61"
+			media-type="audio/mpeg" />
+		<item
+			href="aud002.mp3"
+			id="opf_62"
+			media-type="audio/mpeg" />
+		<item
+			href="aud003.mp3"
+			id="opf_63"
+			media-type="audio/mpeg" />
+		<item
+			href="aud004.mp3"
+			id="opf_64"
+			media-type="audio/mpeg" />
+		<item
+			href="aud005.mp3"
+			id="opf_65"
+			media-type="audio/mpeg" />
+		<item
+			href="aud006.mp3"
+			id="opf_66"
+			media-type="audio/mpeg" />
+		<item
+			href="aud007.mp3"
+			id="opf_67"
+			media-type="audio/mpeg" />
+		<item
+			href="aud008.mp3"
+			id="opf_68"
+			media-type="audio/mpeg" />
+		<item
+			href="aud009.mp3"
+			id="opf_69"
+			media-type="audio/mpeg" />
+		<item
+			href="aud010.mp3"
+			id="opf_70"
+			media-type="audio/mpeg" />
+		<item
+			href="aud011.mp3"
+			id="opf_71"
+			media-type="audio/mpeg" />
+		<item
+			href="aud012.mp3"
+			id="opf_72"
+			media-type="audio/mpeg" />
+		<item
+			href="aud013.mp3"
+			id="opf_73"
+			media-type="audio/mpeg" />
+		<item
+			href="aud014.mp3"
+			id="opf_74"
+			media-type="audio/mpeg" />
+		<item
+			href="aud015.mp3"
+			id="opf_75"
+			media-type="audio/mpeg" />
+		<item
+			href="aud016.mp3"
+			id="opf_76"
+			media-type="audio/mpeg" />
+		<item
+			href="aud017.mp3"
+			id="opf_77"
+			media-type="audio/mpeg" />
+		<item
+			href="aud018.mp3"
+			id="opf_78"
+			media-type="audio/mpeg" />
+		<item
+			href="aud019.mp3"
+			id="opf_79"
+			media-type="audio/mpeg" />
+		<item
+			href="aud020.mp3"
+			id="opf_80"
+			media-type="audio/mpeg" />
+		<item
+			href="aud021.mp3"
+			id="opf_81"
+			media-type="audio/mpeg" />
+		<item
+			href="aud022.mp3"
+			id="opf_82"
+			media-type="audio/mpeg" />
+		<item
+			href="aud023.mp3"
+			id="opf_83"
+			media-type="audio/mpeg" />
+		<item
+			href="aud024.mp3"
+			id="opf_84"
+			media-type="audio/mpeg" />
+		<item
+			href="aud025.mp3"
+			id="opf_85"
+			media-type="audio/mpeg" />
+		<item
+			href="aud026.mp3"
+			id="opf_86"
+			media-type="audio/mpeg" />
+		<item
+			href="aud027.mp3"
+			id="opf_87"
+			media-type="audio/mpeg" />
+		<item
+			href="aud028.mp3"
+			id="opf_88"
+			media-type="audio/mpeg" />
+		<item
+			href="aud029.mp3"
+			id="opf_89"
+			media-type="audio/mpeg" />
+		<item
+			href="aud030.mp3"
+			id="opf_90"
+			media-type="audio/mpeg" />
+		<item
+			href="aud031.mp3"
+			id="opf_91"
+			media-type="audio/mpeg" />
+		<item
+			href="aud032.mp3"
+			id="opf_92"
+			media-type="audio/mpeg" />
+		<item
+			href="aud033.mp3"
+			id="opf_93"
+			media-type="audio/mpeg" />
+		<item
+			href="aud034.mp3"
+			id="opf_94"
+			media-type="audio/mpeg" />
+		<item
+			href="aud035.mp3"
+			id="opf_95"
+			media-type="audio/mpeg" />
+		<item
+			href="aud036.mp3"
+			id="opf_96"
+			media-type="audio/mpeg" />
+		<item
+			href="aud037.mp3"
+			id="opf_97"
+			media-type="audio/mpeg" />
+		<item
+			href="aud038.mp3"
+			id="opf_98"
+			media-type="audio/mpeg" />
+		<item
+			href="aud039.mp3"
+			id="opf_99"
+			media-type="audio/mpeg" />
+		<item
+			href="aud040.mp3"
+			id="opf_100"
+			media-type="audio/mpeg" />
+		<item
+			href="aud041.mp3"
+			id="opf_101"
+			media-type="audio/mpeg" />
+		<item
+			href="aud042.mp3"
+			id="opf_102"
+			media-type="audio/mpeg" />
+		<item
+			href="aud043.mp3"
+			id="opf_103"
+			media-type="audio/mpeg" />
+		<item
+			href="aud044.mp3"
+			id="opf_104"
+			media-type="audio/mpeg" />
+		<item
+			href="aud045.mp3"
+			id="opf_105"
+			media-type="audio/mpeg" />
+		<item
+			href="aud046.mp3"
+			id="opf_106"
+			media-type="audio/mpeg" />
+		<item
+			href="aud047.mp3"
+			id="opf_107"
+			media-type="audio/mpeg" />
+		<item
+			href="aud048.mp3"
+			id="opf_108"
+			media-type="audio/mpeg" />
+		<item
+			href="aud049.mp3"
+			id="opf_109"
+			media-type="audio/mpeg" />
+		<item
+			href="aud050.mp3"
+			id="opf_110"
+			media-type="audio/mpeg" />
+		<item
+			href="aud051.mp3"
+			id="opf_111"
+			media-type="audio/mpeg" />
+		<item
+			href="aud052.mp3"
+			id="opf_112"
+			media-type="audio/mpeg" />
+		<item
+			href="aud053.mp3"
+			id="opf_113"
+			media-type="audio/mpeg" />
+		<item
+			href="aud054.mp3"
+			id="opf_114"
+			media-type="audio/mpeg" />
+		<item
+			href="aud055.mp3"
+			id="opf_115"
+			media-type="audio/mpeg" />
+		<item
+			href="aud056.mp3"
+			id="opf_116"
+			media-type="audio/mpeg" />
+		<item
+			href="aud057.mp3"
+			id="opf_117"
+			media-type="audio/mpeg" />
+		<item
+			href="aud058.mp3"
+			id="opf_118"
+			media-type="audio/mpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-Cover-Page.png"
+			id="opf_119"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-i.png"
+			id="opf_120"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-i0.png"
+			id="opf_121"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-iii.png"
+			id="opf_122"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-iv.png"
+			id="opf_123"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-1.png"
+			id="opf_124"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-2.png"
+			id="opf_125"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-3.png"
+			id="opf_126"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-4.png"
+			id="opf_127"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-4.1.png"
+			id="opf_128"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-4.2.png"
+			id="opf_129"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-4.3.png"
+			id="opf_130"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-5.png"
+			id="opf_131"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-5.1.png"
+			id="opf_132"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-6.png"
+			id="opf_133"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-7.jpg"
+			id="opf_134"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-8.png"
+			id="opf_135"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-9.png"
+			id="opf_136"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-10.jpg"
+			id="opf_137"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-11.png"
+			id="opf_138"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-11.1.png"
+			id="opf_139"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-11.2.png"
+			id="opf_140"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-11.3.png"
+			id="opf_141"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-12.png"
+			id="opf_142"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-12.1.png"
+			id="opf_143"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-12.2.png"
+			id="opf_144"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-12.4.png"
+			id="opf_145"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-12.5.png"
+			id="opf_146"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-12.6.png"
+			id="opf_147"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-13.png"
+			id="opf_148"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-13.1.png"
+			id="opf_149"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-13.2.png"
+			id="opf_150"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-13.3.png"
+			id="opf_151"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-13.4.png"
+			id="opf_152"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-13.5.png"
+			id="opf_153"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-14.png"
+			id="opf_154"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-14.1.png"
+			id="opf_155"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-14.2.png"
+			id="opf_156"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-14.3.png"
+			id="opf_157"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-15.png"
+			id="opf_158"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-15.1.png"
+			id="opf_159"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-15.2.png"
+			id="opf_160"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-16.png"
+			id="opf_161"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-16.1.png"
+			id="opf_162"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-17.png"
+			id="opf_163"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-17.1.png"
+			id="opf_164"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-18.png"
+			id="opf_165"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-19.png"
+			id="opf_166"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-20.png"
+			id="opf_167"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-20.1.png"
+			id="opf_168"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-21.png"
+			id="opf_169"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-21.1.png"
+			id="opf_170"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-21.3.png"
+			id="opf_171"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-24.png"
+			id="opf_172"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-24.jpg"
+			id="opf_173"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-26.png"
+			id="opf_174"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-26.1.png"
+			id="opf_175"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-26.2.png"
+			id="opf_176"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-26.3.png"
+			id="opf_177"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-26.4.png"
+			id="opf_178"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-27.png"
+			id="opf_179"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-27.1.png"
+			id="opf_180"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-27.5.png"
+			id="opf_181"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-27.2.png"
+			id="opf_182"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-27.3.png"
+			id="opf_183"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-28.png"
+			id="opf_184"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-28.1.png"
+			id="opf_185"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-28.2.png"
+			id="opf_186"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-28.3.png"
+			id="opf_187"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-28.5.png"
+			id="opf_188"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-29.png"
+			id="opf_189"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-29.1.png"
+			id="opf_190"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-29.2.png"
+			id="opf_191"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-29.3.png"
+			id="opf_192"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-29.4.png"
+			id="opf_193"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-30.png"
+			id="opf_194"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-30.1.png"
+			id="opf_195"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-31.png"
+			id="opf_196"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-31.1.png"
+			id="opf_197"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-32.png"
+			id="opf_198"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-32.1.png"
+			id="opf_199"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-32.2.png"
+			id="opf_200"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-32.3.png"
+			id="opf_201"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-32.4.png"
+			id="opf_202"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-33.png"
+			id="opf_203"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-33.1.png"
+			id="opf_204"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-33.3.jpg"
+			id="opf_205"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-33.4.jpg"
+			id="opf_206"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-33.2.png"
+			id="opf_207"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-34.png"
+			id="opf_208"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-34.1.png"
+			id="opf_209"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-34.2.png"
+			id="opf_210"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-34.3.png"
+			id="opf_211"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-34.4.png"
+			id="opf_212"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-35.png"
+			id="opf_213"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-35.1.png"
+			id="opf_214"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-35.2.png"
+			id="opf_215"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-35.3.png"
+			id="opf_216"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-35.4.png"
+			id="opf_217"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-35.5.png"
+			id="opf_218"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-36.png"
+			id="opf_219"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-36.1.png"
+			id="opf_220"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-37.png"
+			id="opf_221"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-37.1.png"
+			id="opf_222"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-37.2.png"
+			id="opf_223"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-37.3.png"
+			id="opf_224"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-37.4.png"
+			id="opf_225"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-38.png"
+			id="opf_226"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-38.1.png"
+			id="opf_227"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-38.2.png"
+			id="opf_228"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-38.3.png"
+			id="opf_229"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-38.4.png"
+			id="opf_230"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-39.png"
+			id="opf_231"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-39.1.png"
+			id="opf_232"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-40.png"
+			id="opf_233"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-40.2.png"
+			id="opf_234"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-41.png"
+			id="opf_235"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-41.1.png"
+			id="opf_236"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-42.png"
+			id="opf_237"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-42.1.png"
+			id="opf_238"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-42.2.png"
+			id="opf_239"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-43.png"
+			id="opf_240"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-43.1.png"
+			id="opf_241"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-43.2.png"
+			id="opf_242"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-43.3.png"
+			id="opf_243"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-44.png"
+			id="opf_244"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-44.1.png"
+			id="opf_245"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-45.png"
+			id="opf_246"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-45.1.png"
+			id="opf_247"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-45.2.png"
+			id="opf_248"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-45.3.png"
+			id="opf_249"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-45.4.png"
+			id="opf_250"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-46.png"
+			id="opf_251"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-46.1.png"
+			id="opf_252"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-46.2.png"
+			id="opf_253"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-46.3.png"
+			id="opf_254"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-47.png"
+			id="opf_255"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-47.1.png"
+			id="opf_256"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-47.2.png"
+			id="opf_257"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-47.3.png"
+			id="opf_258"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-47.4.png"
+			id="opf_259"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-48.png"
+			id="opf_260"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-48.2.png"
+			id="opf_261"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-48.3.png"
+			id="opf_262"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-48.4.png"
+			id="opf_263"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-49.png"
+			id="opf_264"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-49.1.png"
+			id="opf_265"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-49.2.png"
+			id="opf_266"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-49.3.png"
+			id="opf_267"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-50.png"
+			id="opf_268"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-50.1.png"
+			id="opf_269"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-50.2.png"
+			id="opf_270"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-50.3.png"
+			id="opf_271"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-51.png"
+			id="opf_272"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-52.png"
+			id="opf_273"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-53.png"
+			id="opf_274"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-54.png"
+			id="opf_275"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-57.png"
+			id="opf_276"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-57.1.png"
+			id="opf_277"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-58.png"
+			id="opf_278"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-59.png"
+			id="opf_279"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-60.png"
+			id="opf_280"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-61.png"
+			id="opf_281"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-62.png"
+			id="opf_282"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-62.1.png"
+			id="opf_283"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-62.2.png"
+			id="opf_284"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-63.png"
+			id="opf_285"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-65.png"
+			id="opf_286"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-65.1.png"
+			id="opf_287"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-66.png"
+			id="opf_288"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-67.png"
+			id="opf_289"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-68.png"
+			id="opf_290"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-68.1.png"
+			id="opf_291"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-68.2.png"
+			id="opf_292"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-68.3.png"
+			id="opf_293"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-68.4.png"
+			id="opf_294"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-69.png"
+			id="opf_295"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-70.png"
+			id="opf_296"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-71.png"
+			id="opf_297"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-72.png"
+			id="opf_298"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-74.jpg"
+			id="opf_299"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-74.1.jpg"
+			id="opf_300"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-74.2.jpg"
+			id="opf_301"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-74.3.jpg"
+			id="opf_302"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-74.4.jpg"
+			id="opf_303"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-74.5.jpg"
+			id="opf_304"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-74.6.jpg"
+			id="opf_305"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-74.7.jpg"
+			id="opf_306"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-75.jpg"
+			id="opf_307"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-75.1.jpg"
+			id="opf_308"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-75.2.jpg"
+			id="opf_309"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-75.3.jpg"
+			id="opf_310"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-75.4.jpg"
+			id="opf_311"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-75.5.jpg"
+			id="opf_312"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-75.6.jpg"
+			id="opf_313"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-75.7.jpg"
+			id="opf_314"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-75.8.jpg"
+			id="opf_315"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-76.jpg"
+			id="opf_316"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-76.1.jpg"
+			id="opf_317"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-76.2.jpg"
+			id="opf_318"
+			media-type="image/jpeg" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-77.png"
+			id="opf_319"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-78.png"
+			id="opf_320"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-79.png"
+			id="opf_321"
+			media-type="image/png" />
+		<item
+			href="Amar_Bangla_BoiClass_one_Style-Last-Page.png"
+			id="opf_322"
+			media-type="image/png" />
+		<item
+			href="tpbnarrator.res"
+			id="resource"
+			media-type="application/x-dtbresource+xml" />
+		<item
+			href="tpbnarrator_res.mp3"
+			id="opf_323"
+			media-type="audio/mpeg" />
+	</manifest>
+	<spine>
+		<itemref
+			idref="opf_4" />
+		<itemref
+			idref="opf_5" />
+		<itemref
+			idref="opf_6" />
+		<itemref
+			idref="opf_7" />
+		<itemref
+			idref="opf_8" />
+		<itemref
+			idref="opf_9" />
+		<itemref
+			idref="opf_10" />
+		<itemref
+			idref="opf_11" />
+		<itemref
+			idref="opf_12" />
+		<itemref
+			idref="opf_13" />
+		<itemref
+			idref="opf_14" />
+		<itemref
+			idref="opf_15" />
+		<itemref
+			idref="opf_16" />
+		<itemref
+			idref="opf_17" />
+		<itemref
+			idref="opf_18" />
+		<itemref
+			idref="opf_19" />
+		<itemref
+			idref="opf_20" />
+		<itemref
+			idref="opf_21" />
+		<itemref
+			idref="opf_22" />
+		<itemref
+			idref="opf_23" />
+		<itemref
+			idref="opf_24" />
+		<itemref
+			idref="opf_25" />
+		<itemref
+			idref="opf_26" />
+		<itemref
+			idref="opf_27" />
+		<itemref
+			idref="opf_28" />
+		<itemref
+			idref="opf_29" />
+		<itemref
+			idref="opf_30" />
+		<itemref
+			idref="opf_31" />
+		<itemref
+			idref="opf_32" />
+		<itemref
+			idref="opf_33" />
+		<itemref
+			idref="opf_34" />
+		<itemref
+			idref="opf_35" />
+		<itemref
+			idref="opf_36" />
+		<itemref
+			idref="opf_37" />
+		<itemref
+			idref="opf_38" />
+		<itemref
+			idref="opf_39" />
+		<itemref
+			idref="opf_40" />
+		<itemref
+			idref="opf_41" />
+		<itemref
+			idref="opf_42" />
+		<itemref
+			idref="opf_43" />
+		<itemref
+			idref="opf_44" />
+		<itemref
+			idref="opf_45" />
+		<itemref
+			idref="opf_46" />
+		<itemref
+			idref="opf_47" />
+		<itemref
+			idref="opf_48" />
+		<itemref
+			idref="opf_49" />
+		<itemref
+			idref="opf_50" />
+		<itemref
+			idref="opf_51" />
+		<itemref
+			idref="opf_52" />
+		<itemref
+			idref="opf_53" />
+		<itemref
+			idref="opf_54" />
+		<itemref
+			idref="opf_55" />
+		<itemref
+			idref="opf_56" />
+		<itemref
+			idref="opf_57" />
+		<itemref
+			idref="opf_58" />
+		<itemref
+			idref="opf_59" />
+		<itemref
+			idref="opf_60" />
+	</spine>
+</package>

@@ -1,0 +1,47 @@
+{
+  "_comment": "Hand-maintained list of which DAISY book folders belong to which class. Everything else (titles, lessons, timings, text, images) is read from the DAISY files by tools/build_daisy_catalog.py. After adding a book here, run: python tools/build_daisy_catalog.py",
+  "classes": [
+    {
+      "id": 1,
+      "nameBn": "প্রথম শ্রেণি",
+      "books": [
+        {
+          "id": "amar_bangla_boi_class1",
+          "folder": "assets/AmarBanglaBoiClass1DaisyMultimedia",
+          "subject": "bangla",
+          "shortTitle": "আমার বাংলা বই",
+          "subjectNameBn": "বাংলা",
+          "spokenNames": [
+            "বাংলা",
+            "বাংলা বই",
+            "আমার বাংলা বই",
+            "bangla",
+            "bangla boi",
+            "amar bangla boi",
+            "bengali"
+          ]
+        },
+        {
+          "id": "english_for_today_class1",
+          "folder": "assets/EnglishClassOneDaisyMultimedia",
+          "subject": "english",
+          "shortTitle": "English For Today",
+          "subjectNameBn": "ইংরেজি",
+          "spokenNames": [
+            "ইংরেজি",
+            "ইংরেজি বই",
+            "ইংলিশ",
+            "ইংলিশ বই",
+            "ইংলিশ ফর টুডে",
+            "english",
+            "english boi",
+            "english book",
+            "english for today",
+            "engreji",
+            "ingreji"
+          ]
+        }
+      ]
+    }
+  ]
+}

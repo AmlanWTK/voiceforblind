@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+	<head>
+		<meta
+			name="dtb:uid"
+			content="AUTO-UID-5622526195009130373" />
+		<meta
+			name="dtb:generator"
+			content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+		<meta
+			name="dtb:totalElapsedTime"
+			content="00:15:52.9615193" />
+		<customAttributes>
+			<customTest
+				defaultState="false"
+				id="pagenum"
+				override="visible" />
+		</customAttributes>
+	</head>
+	<body>
+		<seq
+			id="sm_1026"
+			dur="00:00:18.6719048"
+			fill="remove">
+			<seq
+				id="sm_1027"
+				class="h2">
+				<par
+					id="sm_1028">
+					<text
+						id="sm_1029"
+						src="dtbook.xml#dtb_587" />
+					<audio
+						id="sm_1030"
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.9400000"
+						src="aud010.mp3" />
+				</par>
+			</seq>
+			<par
+				id="sm_1031">
+				<text
+					id="sm_1032"
+					src="dtbook.xml#dtb_588" />
+				<audio
+					id="sm_1033"
+					clipBegin="00:00:03.9400000"
+					clipEnd="00:00:06.9600000"
+					src="aud010.mp3" />
+			</par>
+			<par
+				id="sm_1034">
+				<text
+					id="sm_1035"
+					src="dtbook.xml#dtb_591" />
+				<audio
+					id="sm_1036"
+					clipBegin="00:00:06.9600000"
+					clipEnd="00:00:10.5867574"
+					src="aud010.mp3" />
+			</par>
+			<seq
+				id="sm_1037"
+				class="pagenum"
+				customTest="pagenum">
+				<par
+					id="sm_1038">
+					<text
+						id="sm_1039"
+						src="dtbook.xml#dtb_592" />
+					<audio
+						id="sm_1040"
+						clipBegin="00:00:10.5867574"
+						clipEnd="00:00:12.7060544"
+						src="aud010.mp3" />
+				</par>
+			</seq>
+			<par
+				id="sm_1041">
+				<text
+					id="sm_1042"
+					src="dtbook.xml#dtb_595" />
+				<audio
+					id="sm_1043"
+					clipBegin="00:00:12.7060544"
+					clipEnd="00:00:16.4226077"
+					src="aud010.mp3" />
+			</par>
+			<seq
+				id="sm_1044"
+				class="pagenum"
+				customTest="pagenum">
+				<par
+					id="sm_1045">
+					<text
+						id="sm_1046"
+						src="dtbook.xml#dtb_596" />
+					<audio
+						id="sm_1047"
+						clipBegin="00:00:16.4226077"
+						clipEnd="00:00:18.6719048"
+						src="aud010.mp3" />
+				</par>
+			</seq>
+		</seq>
+	</body>
+</smil>

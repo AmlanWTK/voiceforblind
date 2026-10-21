@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+	<head>
+		<meta
+			name="dtb:uid"
+			content="AUTO-UID-5622526195009130373" />
+		<meta
+			name="dtb:generator"
+			content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+		<meta
+			name="dtb:totalElapsedTime"
+			content="00:42:33.5094108" />
+		<customAttributes>
+			<customTest
+				defaultState="false"
+				id="pagenum"
+				override="visible" />
+		</customAttributes>
+	</head>
+	<body>
+		<seq
+			id="sm_2802"
+			dur="00:00:27.8247846"
+			fill="remove">
+			<seq
+				id="sm_2803"
+				class="h2">
+				<par
+					id="sm_2804">
+					<text
+						id="sm_2805"
+						src="dtbook.xml#dtb_1897" />
+					<audio
+						id="sm_2806"
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.4761905"
+						src="aud040.mp3" />
+				</par>
+			</seq>
+			<par
+				id="sm_2807">
+				<text
+					id="sm_2808"
+					src="dtbook.xml#dtb_1900" />
+				<audio
+					id="sm_2809"
+					clipBegin="00:00:04.4761905"
+					clipEnd="00:00:12.3054875"
+					src="aud040.mp3" />
+			</par>
+			<seq
+				id="sm_2810"
+				class="table"
+				end="DTBuserEscape;sm_2826.end"
+				fill="remove">
+				<seq
+					id="sm_2811"
+					class="tr"
+					end="DTBuserEscape;sm_2815.end"
+					fill="remove">
+					<par
+						id="sm_2812">
+						<text
+							id="sm_2813"
+							src="dtbook.xml#dtb_1905" />
+						<audio
+							id="sm_2814"
+							clipBegin="00:00:12.3054875"
+							clipEnd="00:00:13.9047846"
+							src="aud040.mp3" />
+					</par>
+					<par
+						id="sm_2815">
+						<text
+							id="sm_2816"
+							src="dtbook.xml#dtb_1907" />
+						<audio
+							id="sm_2817"
+							clipBegin="00:00:13.9047846"
+							clipEnd="00:00:15.7247846"
+							src="aud040.mp3" />
+					</par>
+				</seq>
+				<seq
+					id="sm_2818"
+					class="tr"
+					end="DTBuserEscape;sm_2819.end"
+					fill="remove">
+					<par
+						id="sm_2819">
+						<text
+							id="sm_2820"
+							src="dtbook.xml#dtb_1913" />
+						<audio
+							id="sm_2821"
+							clipBegin="00:00:15.7247846"
+							clipEnd="00:00:17.6847846"
+							src="aud040.mp3" />
+					</par>
+				</seq>
+				<seq
+					id="sm_2822"
+					class="tr"
+					end="DTBuserEscape;sm_2823.end"
+					fill="remove">
+					<par
+						id="sm_2823">
+						<text
+							id="sm_2824"
+							src="dtbook.xml#dtb_1919" />
+						<audio
+							id="sm_2825"
+							clipBegin="00:00:17.6847846"
+							clipEnd="00:00:19.4147846"
+							src="aud040.mp3" />
+					</par>
+				</seq>
+				<seq
+					id="sm_2826"
+					class="table"
+					end="DTBuserEscape;sm_2838.end"
+					fill="remove">
+					<seq
+						id="sm_2827"
+						class="tr"
+						end="DTBuserEscape;sm_2831.end"
+						fill="remove">
+						<par
+							id="sm_2828">
+							<text
+								id="sm_2829"
+								src="dtbook.xml#dtb_1926" />
+							<audio
+								id="sm_2830"
+								clipBegin="00:00:19.4147846"
+								clipEnd="00:00:21.2347846"
+								src="aud040.mp3" />
+						</par>
+						<par
+							id="sm_2831">
+							<text
+								id="sm_2832"
+								src="dtbook.xml#dtb_1928" />
+							<audio
+								id="sm_2833"
+								clipBegin="00:00:21.2347846"
+								clipEnd="00:00:23.3047846"
+								src="aud040.mp3" />
+						</par>
+					</seq>
+					<seq
+						id="sm_2834"
+						class="tr"
+						end="DTBuserEscape;sm_2835.end"
+						fill="remove">
+						<par
+							id="sm_2835">
+							<text
+								id="sm_2836"
+								src="dtbook.xml#dtb_1934" />
+							<audio
+								id="sm_2837"
+								clipBegin="00:00:23.3047846"
+								clipEnd="00:00:25.0447846"
+								src="aud040.mp3" />
+						</par>
+					</seq>
+					<seq
+						id="sm_2838"
+						class="pagenum"
+						customTest="pagenum">
+						<par
+							id="sm_2839">
+							<text
+								id="sm_2840"
+								src="dtbook.xml#dtb_1937" />
+							<audio
+								id="sm_2841"
+								clipBegin="00:00:25.0447846"
+								clipEnd="00:00:27.8247846"
+								src="aud040.mp3" />
+						</par>
+					</seq>
+				</seq>
+			</seq>
+		</seq>
+	</body>
+</smil>

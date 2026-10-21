@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+	<head>
+		<meta
+			name="dtb:uid"
+			content="AUTO-UID-5616132112266615999" />
+		<meta
+			name="dtb:generator"
+			content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+		<meta
+			name="dtb:totalElapsedTime"
+			content="00:45:53.1227890" />
+		<customAttributes>
+			<customTest
+				defaultState="false"
+				id="pagenum"
+				override="visible" />
+		</customAttributes>
+	</head>
+	<body>
+		<seq
+			id="sm_3373"
+			dur="00:00:08.2831519"
+			fill="remove">
+			<seq
+				id="sm_3374"
+				class="h2">
+				<par
+					id="sm_3375">
+					<text
+						id="sm_3376"
+						src="dtbook.xml#dtb_2392" />
+					<audio
+						id="sm_3377"
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.8693197"
+						src="aud036.mp3" />
+				</par>
+			</seq>
+			<par
+				id="sm_3378">
+				<text
+					id="sm_3379"
+					src="dtbook.xml#dtb_2395" />
+				<audio
+					id="sm_3380"
+					clipBegin="00:00:03.8693197"
+					clipEnd="00:00:06.5087302"
+					src="aud036.mp3" />
+			</par>
+			<seq
+				id="sm_3381"
+				class="pagenum"
+				customTest="pagenum">
+				<par
+					id="sm_3382">
+					<text
+						id="sm_3383"
+						src="dtbook.xml#dtb_2396" />
+					<audio
+						id="sm_3384"
+						clipBegin="00:00:06.5087302"
+						clipEnd="00:00:08.2831519"
+						src="aud036.mp3" />
+				</par>
+			</seq>
+		</seq>
+	</body>
+</smil>

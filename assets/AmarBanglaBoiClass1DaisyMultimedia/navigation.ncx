@@ -1,0 +1,2023 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx
+	version="2005-1"
+	xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+	<head>
+		<meta
+			name="dtb:uid"
+			content="AUTO-UID-5622526195009130373" />
+		<meta
+			name="dtb:generator"
+			content="Tobi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+		<meta
+			name="dtb:depth"
+			content="2" />
+		<meta
+			name="dtb:totalPageCount"
+			content="80" />
+		<meta
+			name="dtb:maxPageNumber"
+			content="0" />
+		<smilCustomTest
+			bookStruct="PAGE_NUMBER"
+			defaultState="false"
+			id="pagenum"
+			override="visible" />
+	</head>
+	<docTitle>
+		<text>আমার বাংলা বই - প্রথম শ্রেণি</text>
+		<audio
+			clipBegin="00:00:00"
+			clipEnd="00:00:03.0769615"
+			src="aud001.mp3" />
+	</docTitle>
+	<navMap>
+		<navPoint
+			class="h1"
+			id="ncx_1"
+			playOrder="1">
+			<navLabel>
+				<text>আমার বাংলা বই - প্রথম শ্রেণি</text>
+				<audio
+					clipBegin="00:00:00"
+					clipEnd="00:00:03.1892971"
+					src="aud003.mp3" />
+			</navLabel>
+			<content
+				src="002.smil#sm_164" />
+			<navPoint
+				class="h2"
+				id="ncx_2"
+				playOrder="2">
+				<navLabel>
+					<text>প্রসঙ্গ কথা</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:01.8074603"
+						src="aud004.mp3" />
+				</navLabel>
+				<content
+					src="003.smil#sm_235" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_3"
+				playOrder="3">
+				<navLabel>
+					<text>সূচিপত্র</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:01.5292971"
+						src="aud005.mp3" />
+				</navLabel>
+				<content
+					src="004.smil#sm_294" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_5"
+				playOrder="5">
+				<navLabel>
+					<text>পাঠ ১ - আমার পরিচয়</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.0400000"
+						src="aud006.mp3" />
+				</navLabel>
+				<content
+					src="005.smil#sm_847" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_7"
+				playOrder="7">
+				<navLabel>
+					<text>পাঠ ২ - এসো রং করি ও আঁকি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:05.7200000"
+						src="aud007.mp3" />
+				</navLabel>
+				<content
+					src="006.smil#sm_871" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_9"
+				playOrder="9">
+				<navLabel>
+					<text>পাঠ ৩ - আমি ও আমার বিদ্যালয়</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:05.0800000"
+						src="aud008.mp3" />
+				</navLabel>
+				<content
+					src="007.smil#sm_883" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_11"
+				playOrder="11">
+				<navLabel>
+					<text>পাঠ ৪ - আমি ও আমার সহপাঠীরা</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.4900000"
+						src="aud009.mp3" />
+				</navLabel>
+				<content
+					src="008.smil#sm_943" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_14"
+				playOrder="14">
+				<navLabel>
+					<text>পাঠ ৫ - আঁকাআঁকি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.9400000"
+						src="aud010.mp3" />
+				</navLabel>
+				<content
+					src="009.smil#sm_1028" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_17"
+				playOrder="17">
+				<navLabel>
+					<text>পাঠ ৬ - আমরা কী কী করি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.0300000"
+						src="aud011.mp3" />
+				</navLabel>
+				<content
+					src="010.smil#sm_1050" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_19"
+				playOrder="19">
+				<navLabel>
+					<text>পাঠ ৭ - আঁকাআঁকি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.3074830"
+						src="aud012.mp3" />
+				</navLabel>
+				<content
+					src="011.smil#sm_1083" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_22"
+				playOrder="22">
+				<navLabel>
+					<text>পাঠ ৮ - ছড়া</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.2300000"
+						src="aud013.mp3" />
+				</navLabel>
+				<content
+					src="012.smil#sm_1102" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_24"
+				playOrder="24">
+				<navLabel>
+					<text>পাঠ ৯ - বাঘ ও রাখাল</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.3000000"
+						src="aud014.mp3" />
+				</navLabel>
+				<content
+					src="013.smil#sm_1144" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_28"
+				playOrder="28">
+				<navLabel>
+					<text>পাঠ ১০ - বর্ণ শিখি : অ আ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:05.4200000"
+						src="aud015.mp3" />
+				</navLabel>
+				<content
+					src="014.smil#sm_1209" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_30"
+				playOrder="30">
+				<navLabel>
+					<text>পাঠ ১১ - বর্ণ শিখি : ই ঈ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:06.0092971"
+						src="aud016.mp3" />
+				</navLabel>
+				<content
+					src="015.smil#sm_1260" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_32"
+				playOrder="32">
+				<navLabel>
+					<text>পাঠ ১২ - বর্ণ শিখি : ঊ ঊ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:06.2400000"
+						src="aud017.mp3" />
+				</navLabel>
+				<content
+					src="016.smil#sm_1308" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_34"
+				playOrder="34">
+				<navLabel>
+					<text>পাঠ ১৩ - বর্ণ শিখি : ঋ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.2800000"
+						src="aud018.mp3" />
+				</navLabel>
+				<content
+					src="017.smil#sm_1356" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_37"
+				playOrder="37">
+				<navLabel>
+					<text>পাঠ ১৪ - বর্ণ শিখি : এ ঐ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:05.1700000"
+						src="aud019.mp3" />
+				</navLabel>
+				<content
+					src="018.smil#sm_1419" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_39"
+				playOrder="39">
+				<navLabel>
+					<text>পাঠ ১৫ - বর্ণ শিখি : ও ঔ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:05.5000000"
+						src="aud020.mp3" />
+				</navLabel>
+				<content
+					src="019.smil#sm_1461" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_41"
+				playOrder="41">
+				<navLabel>
+					<text>পাঠ ১৬ - স্বরবর্ণ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.4400000"
+						src="aud021.mp3" />
+				</navLabel>
+				<content
+					src="020.smil#sm_1506" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_44"
+				playOrder="44">
+				<navLabel>
+					<text>পাঠ ১৭ - ইতল বিতল</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.0800000"
+						src="aud022.mp3" />
+				</navLabel>
+				<content
+					src="021.smil#sm_1598" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_46"
+				playOrder="46">
+				<navLabel>
+					<text>পাঠ ১৮ - কারচিহ্ন দেখি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.4800000"
+						src="aud023.mp3" />
+				</navLabel>
+				<content
+					src="022.smil#sm_1640" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_48"
+				playOrder="48">
+				<navLabel>
+					<text>পাঠ ১৯ - বর্ণ শিখি: ক খ গ ঘ ঙ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:10.1000000"
+						src="aud024.mp3" />
+				</navLabel>
+				<content
+					src="023.smil#sm_1679" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_51"
+				playOrder="51">
+				<navLabel>
+					<text>পাঠ ২০ - বর্ণ শিখি : চ ছ জ ঝ ঞ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:10.6000000"
+						src="aud025.mp3" />
+				</navLabel>
+				<content
+					src="024.smil#sm_1787" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_54"
+				playOrder="54">
+				<navLabel>
+					<text>পাঠ ২১ - আ-কার শিখি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.8500000"
+						src="aud026.mp3" />
+				</navLabel>
+				<content
+					src="025.smil#sm_1895" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_56"
+				playOrder="56">
+				<navLabel>
+					<text>পাঠ ২২ - ই-কার ঈ-কার শিখি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:08.4800000"
+						src="aud027.mp3" />
+				</navLabel>
+				<content
+					src="026.smil#sm_1919" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_58"
+				playOrder="58">
+				<navLabel>
+					<text>পাঠ ২৩ - বর্ণ শিখি : ট ঠ ড ঢ ণ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:08.4300000"
+						src="aud028.mp3" />
+				</navLabel>
+				<content
+					src="027.smil#sm_1952" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_61"
+				playOrder="61">
+				<navLabel>
+					<text>পাঠ ২৪ - বর্ণ শিখি : ত থ দ ধ ন</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:07.9365533"
+						src="aud029.mp3" />
+				</navLabel>
+				<content
+					src="028.smil#sm_2060" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_64"
+				playOrder="64">
+				<navLabel>
+					<text>পাঠ ২৫ - ট্রেন</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.0300000"
+						src="aud030.mp3" />
+				</navLabel>
+				<content
+					src="029.smil#sm_2171" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_66"
+				playOrder="66">
+				<navLabel>
+					<text>পাঠ ২৬ - বর্ণ শিখি : প ফ ব ভ ম</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:09.4000000"
+						src="aud031.mp3" />
+				</navLabel>
+				<content
+					src="030.smil#sm_2231" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_69"
+				playOrder="69">
+				<navLabel>
+					<text>পাঠ ২৭ - উ-কার উ-কার শিখি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:05.7492971"
+						src="aud032.mp3" />
+				</navLabel>
+				<content
+					src="031.smil#sm_2339" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_71"
+				playOrder="71">
+				<navLabel>
+					<text>পাঠ ২৮ - ঋ-কার শিখি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.8000000"
+						src="aud033.mp3" />
+				</navLabel>
+				<content
+					src="032.smil#sm_2369" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_73"
+				playOrder="73">
+				<navLabel>
+					<text>পাঠ ২৯ - এ-কার ঐ-কার শিখি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:05.0792971"
+						src="aud034.mp3" />
+				</navLabel>
+				<content
+					src="033.smil#sm_2390" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_75"
+				playOrder="75">
+				<navLabel>
+					<text>পাঠ ৩০ - বর্ণ শিখি : য র ল</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:07.8000000"
+						src="aud035.mp3" />
+				</navLabel>
+				<content
+					src="034.smil#sm_2417" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_78"
+				playOrder="78">
+				<navLabel>
+					<text>পাঠ ৩১ - ও-কার ঔ-কার শিখি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:06.0500000"
+						src="aud036.mp3" />
+				</navLabel>
+				<content
+					src="035.smil#sm_2495" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_80"
+				playOrder="80">
+				<navLabel>
+					<text>পাঠ ৩২ - বর্ণ শিখি : শ ষ স হ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:09.7100000"
+						src="aud037.mp3" />
+				</navLabel>
+				<content
+					src="036.smil#sm_2525" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_83"
+				playOrder="83">
+				<navLabel>
+					<text>পাঠ ৩৩ - বর্ণ শিখি : ড় ঢ় য় ৎ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:08.9900000"
+						src="aud038.mp3" />
+				</navLabel>
+				<content
+					src="037.smil#sm_2621" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_86"
+				playOrder="86">
+				<navLabel>
+					<text>পাঠ ৩৪ - বর্ণ শিখি : ং ঃ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.7500000"
+						src="aud039.mp3" />
+				</navLabel>
+				<content
+					src="038.smil#sm_2720" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_89"
+				playOrder="89">
+				<navLabel>
+					<text>পাঠ ৩৫ - ছবি দেখি শব্দ বানাই</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.4761905"
+						src="aud040.mp3" />
+				</navLabel>
+				<content
+					src="039.smil#sm_2804" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_91"
+				playOrder="91">
+				<navLabel>
+					<text>পাঠ ৩৬ -এসো পড়ি ও লিখি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:06.1000000"
+						src="aud041.mp3" />
+				</navLabel>
+				<content
+					src="040.smil#sm_2844" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_93"
+				playOrder="93">
+				<navLabel>
+					<text>পাঠ ৩৭ - এসো পড়ি ও লিখি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:05.7900000"
+						src="aud042.mp3" />
+				</navLabel>
+				<content
+					src="041.smil#sm_2908" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_95"
+				playOrder="95">
+				<navLabel>
+					<text>পাঠ ৩৮ - এসো পড়ি ও লিখি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:05.8700000"
+						src="aud043.mp3" />
+				</navLabel>
+				<content
+					src="042.smil#sm_2975" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_97"
+				playOrder="97">
+				<navLabel>
+					<text>পাঠ ৩৯ - ব্যঞ্জনবর্ণ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.1100000"
+						src="aud044.mp3" />
+				</navLabel>
+				<content
+					src="043.smil#sm_3054" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_100"
+				playOrder="100">
+				<navLabel>
+					<text>পাঠ ৪০ - মামার বাড়ি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.1800000"
+						src="aud045.mp3" />
+				</navLabel>
+				<content
+					src="044.smil#sm_3283" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_103"
+				playOrder="103">
+				<navLabel>
+					<text>পাঠ ৪১ - তুলির ঘর</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.0700000"
+						src="aud046.mp3" />
+				</navLabel>
+				<content
+					src="045.smil#sm_3371" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_105"
+				playOrder="105">
+				<navLabel>
+					<text>পাঠ ৪২ - ভোর হলো</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.0700000"
+						src="aud047.mp3" />
+				</navLabel>
+				<content
+					src="046.smil#sm_3428" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_107"
+				playOrder="107">
+				<navLabel>
+					<text>পাঠ ৪৩ - যেতে যেতে পড়ি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.3300000"
+						src="aud048.mp3" />
+				</navLabel>
+				<content
+					src="047.smil#sm_3535" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_110"
+				playOrder="110">
+				<navLabel>
+					<text>পাঠ ৪৪ - পড়ি ও লিখি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.6500000"
+						src="aud049.mp3" />
+				</navLabel>
+				<content
+					src="048.smil#sm_3575" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_113"
+				playOrder="113">
+				<navLabel>
+					<text>পাঠ ৪৫ - সাত দিনের কথা</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.4621315"
+						src="aud050.mp3" />
+				</navLabel>
+				<content
+					src="049.smil#sm_3660" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_117"
+				playOrder="117">
+				<navLabel>
+					<text>পাঠ ৪৬ - আজকের দিন</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.1900000"
+						src="aud051.mp3" />
+				</navLabel>
+				<content
+					src="050.smil#sm_3774" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_120"
+				playOrder="120">
+				<navLabel>
+					<text>পাঠ ৪৭ - ছুটি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.4000000"
+						src="aud052.mp3" />
+				</navLabel>
+				<content
+					src="051.smil#sm_3862" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_122"
+				playOrder="122">
+				<navLabel>
+					<text>পাঠ ৪৮ - আমাদের দেশ</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.7400000"
+						src="aud053.mp3" />
+				</navLabel>
+				<content
+					src="052.smil#sm_3952" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_125"
+				playOrder="125">
+				<navLabel>
+					<text>পাঠ ৪৯ - মাছের রাজা</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.5519274"
+						src="aud054.mp3" />
+				</navLabel>
+				<content
+					src="053.smil#sm_4082" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_127"
+				playOrder="127">
+				<navLabel>
+					<text>পাঠ ৫০ - সংখ্যা শিখি</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.7492971"
+						src="aud055.mp3" />
+				</navLabel>
+				<content
+					src="054.smil#sm_4130" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_131"
+				playOrder="131">
+				<navLabel>
+					<text>পাঠ ৫১ - মুক্তিযুদ্ধ ও বিজয়</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.7992971"
+						src="aud056.mp3" />
+				</navLabel>
+				<content
+					src="055.smil#sm_4319" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_134"
+				playOrder="134">
+				<navLabel>
+					<text>পাঠ ৫২ -শব্দ নিয়ে খেলা</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:03.2300000"
+						src="aud057.mp3" />
+				</navLabel>
+				<content
+					src="056.smil#sm_4467" />
+			</navPoint>
+			<navPoint
+				class="h2"
+				id="ncx_136"
+				playOrder="136">
+				<navLabel>
+					<text>পাঠ ৫৩ - আমার ঠিকানা</text>
+					<audio
+						clipBegin="00:00:00"
+						clipEnd="00:00:04.4092971"
+						src="aud058.mp3" />
+				</navLabel>
+				<content
+					src="057.smil#sm_4515" />
+			</navPoint>
+		</navPoint>
+	</navMap>
+	<pageList>
+		<pageTarget
+			id="ncx_4"
+			class="pagenum"
+			playOrder="4"
+			type="special">
+			<navLabel>
+				<text>১</text>
+				<audio
+					clipBegin="00:04:39.0958503"
+					clipEnd="00:04:40.6074150"
+					src="aud005.mp3" />
+			</navLabel>
+			<content
+				src="004.smil#sm_842" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_6"
+			class="pagenum"
+			playOrder="6"
+			type="special">
+			<navLabel>
+				<text>২</text>
+				<audio
+					clipBegin="00:00:18.8564399"
+					clipEnd="00:00:21.3357370"
+					src="aud006.mp3" />
+			</navLabel>
+			<content
+				src="005.smil#sm_866" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_8"
+			class="pagenum"
+			playOrder="8"
+			type="special">
+			<navLabel>
+				<text>৩</text>
+				<audio
+					clipBegin="00:00:08.7213152"
+					clipEnd="00:00:11.4806122"
+					src="aud007.mp3" />
+			</navLabel>
+			<content
+				src="006.smil#sm_878" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_10"
+			class="pagenum"
+			playOrder="10"
+			type="special">
+			<navLabel>
+				<text>৪</text>
+				<audio
+					clipBegin="00:00:59.9615646"
+					clipEnd="00:01:01.9208617"
+					src="aud008.mp3" />
+			</navLabel>
+			<content
+				src="007.smil#sm_938" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_12"
+			class="pagenum"
+			playOrder="12"
+			type="special">
+			<navLabel>
+				<text>৫</text>
+				<audio
+					clipBegin="00:00:22.9292971"
+					clipEnd="00:00:25.9692971"
+					src="aud009.mp3" />
+			</navLabel>
+			<content
+				src="008.smil#sm_962" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_13"
+			class="pagenum"
+			playOrder="13"
+			type="special">
+			<navLabel>
+				<text>৬</text>
+				<audio
+					clipBegin="00:01:20.2425397"
+					clipEnd="00:01:22.7525397"
+					src="aud009.mp3" />
+			</navLabel>
+			<content
+				src="008.smil#sm_1023" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_15"
+			class="pagenum"
+			playOrder="15"
+			type="special">
+			<navLabel>
+				<text>৭</text>
+				<audio
+					clipBegin="00:00:10.5867574"
+					clipEnd="00:00:12.7060544"
+					src="aud010.mp3" />
+			</navLabel>
+			<content
+				src="009.smil#sm_1038" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_16"
+			class="pagenum"
+			playOrder="16"
+			type="special">
+			<navLabel>
+				<text>৮</text>
+				<audio
+					clipBegin="00:00:16.4226077"
+					clipEnd="00:00:18.6719048"
+					src="aud010.mp3" />
+			</navLabel>
+			<content
+				src="009.smil#sm_1045" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_18"
+			class="pagenum"
+			playOrder="18"
+			type="special">
+			<navLabel>
+				<text>৯</text>
+				<audio
+					clipBegin="00:00:42.2162132"
+					clipEnd="00:00:44.7862132"
+					src="aud011.mp3" />
+			</navLabel>
+			<content
+				src="010.smil#sm_1078" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_20"
+			class="pagenum"
+			playOrder="20"
+			type="special">
+			<navLabel>
+				<text>১০</text>
+				<audio
+					clipBegin="00:00:05.3927438"
+					clipEnd="00:00:07.6220408"
+					src="aud012.mp3" />
+			</navLabel>
+			<content
+				src="011.smil#sm_1090" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_21"
+			class="pagenum"
+			playOrder="21"
+			type="special">
+			<navLabel>
+				<text>১১</text>
+				<audio
+					clipBegin="00:00:09.7320408"
+					clipEnd="00:00:13.0120408"
+					src="aud012.mp3" />
+			</navLabel>
+			<content
+				src="011.smil#sm_1097" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_23"
+			class="pagenum"
+			playOrder="23"
+			type="special">
+			<navLabel>
+				<text>১২</text>
+				<audio
+					clipBegin="00:00:41.8600000"
+					clipEnd="00:00:44.5392971"
+					src="aud013.mp3" />
+			</navLabel>
+			<content
+				src="012.smil#sm_1139" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_25"
+			class="pagenum"
+			playOrder="25"
+			type="special">
+			<navLabel>
+				<text>১৩</text>
+				<audio
+					clipBegin="00:00:27.7100000"
+					clipEnd="00:00:29.2823129"
+					src="aud014.mp3" />
+			</navLabel>
+			<content
+				src="013.smil#sm_1166" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_26"
+			class="pagenum"
+			playOrder="26"
+			type="special">
+			<navLabel>
+				<text>১৪</text>
+				<audio
+					clipBegin="00:00:56.3916100"
+					clipEnd="00:00:57.9780045"
+					src="aud014.mp3" />
+			</navLabel>
+			<content
+				src="013.smil#sm_1188" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_27"
+			class="pagenum"
+			playOrder="27"
+			type="special">
+			<navLabel>
+				<text>১৫</text>
+				<audio
+					clipBegin="00:01:23.6073016"
+					clipEnd="00:01:26.3573016"
+					src="aud014.mp3" />
+			</navLabel>
+			<content
+				src="013.smil#sm_1204" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_29"
+			class="pagenum"
+			playOrder="29"
+			type="special">
+			<navLabel>
+				<text>১৬</text>
+				<audio
+					clipBegin="00:00:38.5600000"
+					clipEnd="00:00:40.6100000"
+					src="aud015.mp3" />
+			</navLabel>
+			<content
+				src="014.smil#sm_1255" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_31"
+			class="pagenum"
+			playOrder="31"
+			type="special">
+			<navLabel>
+				<text>১৭</text>
+				<audio
+					clipBegin="00:00:38.7247166"
+					clipEnd="00:00:41.3747166"
+					src="aud016.mp3" />
+			</navLabel>
+			<content
+				src="015.smil#sm_1303" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_33"
+			class="pagenum"
+			playOrder="33"
+			type="special">
+			<navLabel>
+				<text>১৮</text>
+				<audio
+					clipBegin="00:00:36.5792971"
+					clipEnd="00:00:38.8492971"
+					src="aud017.mp3" />
+			</navLabel>
+			<content
+				src="016.smil#sm_1351" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_35"
+			class="pagenum"
+			playOrder="35"
+			type="special">
+			<navLabel>
+				<text>১৯</text>
+				<audio
+					clipBegin="00:00:24.4645805"
+					clipEnd="00:00:26.9145805"
+					src="aud018.mp3" />
+			</navLabel>
+			<content
+				src="017.smil#sm_1390" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_36"
+			class="pagenum"
+			playOrder="36"
+			type="special">
+			<navLabel>
+				<text>২০</text>
+				<audio
+					clipBegin="00:00:55.7429025"
+					clipEnd="00:00:57.6621995"
+					src="aud018.mp3" />
+			</navLabel>
+			<content
+				src="017.smil#sm_1414" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_38"
+			class="pagenum"
+			playOrder="38"
+			type="special">
+			<navLabel>
+				<text>২১</text>
+				<audio
+					clipBegin="00:00:29.2720635"
+					clipEnd="00:00:31.8920635"
+					src="aud019.mp3" />
+			</navLabel>
+			<content
+				src="018.smil#sm_1456" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_40"
+			class="pagenum"
+			playOrder="40"
+			type="special">
+			<navLabel>
+				<text>২২</text>
+				<audio
+					clipBegin="00:00:32.2102268"
+					clipEnd="00:00:34.6402268"
+					src="aud020.mp3" />
+			</navLabel>
+			<content
+				src="019.smil#sm_1501" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_42"
+			class="pagenum"
+			playOrder="42"
+			type="special">
+			<navLabel>
+				<text>২৩</text>
+				<audio
+					clipBegin="00:00:41.9575964"
+					clipEnd="00:00:43.5686621"
+					src="aud021.mp3" />
+			</navLabel>
+			<content
+				src="020.smil#sm_1562" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_43"
+			class="pagenum"
+			playOrder="43"
+			type="special">
+			<navLabel>
+				<text>২৪</text>
+				<audio
+					clipBegin="00:01:13.2507937"
+					clipEnd="00:01:14.8721088"
+					src="aud021.mp3" />
+			</navLabel>
+			<content
+				src="020.smil#sm_1593" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_45"
+			class="pagenum"
+			playOrder="45"
+			type="special">
+			<navLabel>
+				<text>২৫</text>
+				<audio
+					clipBegin="00:00:43.1921769"
+					clipEnd="00:00:45.6221769"
+					src="aud022.mp3" />
+			</navLabel>
+			<content
+				src="021.smil#sm_1635" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_47"
+			class="pagenum"
+			playOrder="47"
+			type="special">
+			<navLabel>
+				<text>২৬</text>
+				<audio
+					clipBegin="00:00:23.7700000"
+					clipEnd="00:00:26.3000000"
+					src="aud023.mp3" />
+			</navLabel>
+			<content
+				src="022.smil#sm_1674" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_49"
+			class="pagenum"
+			playOrder="49"
+			type="special">
+			<navLabel>
+				<text>২৭</text>
+				<audio
+					clipBegin="00:00:52.7609297"
+					clipEnd="00:00:55.3909297"
+					src="aud024.mp3" />
+			</navLabel>
+			<content
+				src="023.smil#sm_1716" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_50"
+			class="pagenum"
+			playOrder="50"
+			type="special">
+			<navLabel>
+				<text>২৮</text>
+				<audio
+					clipBegin="00:01:37.7609297"
+					clipEnd="00:01:40.1109297"
+					src="aud024.mp3" />
+			</navLabel>
+			<content
+				src="023.smil#sm_1782" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_52"
+			class="pagenum"
+			playOrder="52"
+			type="special">
+			<navLabel>
+				<text>২৯</text>
+				<audio
+					clipBegin="00:00:53.3285941"
+					clipEnd="00:00:55.2639456"
+					src="aud025.mp3" />
+			</navLabel>
+			<content
+				src="024.smil#sm_1824" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_53"
+			class="pagenum"
+			playOrder="53"
+			type="special">
+			<navLabel>
+				<text>৩০</text>
+				<audio
+					clipBegin="00:01:38.6232426"
+					clipEnd="00:01:40.9032426"
+					src="aud025.mp3" />
+			</navLabel>
+			<content
+				src="024.smil#sm_1890" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_55"
+			class="pagenum"
+			playOrder="55"
+			type="special">
+			<navLabel>
+				<text>৩১</text>
+				<audio
+					clipBegin="00:00:17.6500000"
+					clipEnd="00:00:20.3600000"
+					src="aud026.mp3" />
+			</navLabel>
+			<content
+				src="025.smil#sm_1914" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_57"
+			class="pagenum"
+			playOrder="57"
+			type="special">
+			<navLabel>
+				<text>৩২</text>
+				<audio
+					clipBegin="00:00:30.0500000"
+					clipEnd="00:00:33.3100000"
+					src="aud027.mp3" />
+			</navLabel>
+			<content
+				src="026.smil#sm_1947" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_59"
+			class="pagenum"
+			playOrder="59"
+			type="special">
+			<navLabel>
+				<text>৩৩</text>
+				<audio
+					clipBegin="00:00:45.0500000"
+					clipEnd="00:00:46.9599093"
+					src="aud028.mp3" />
+			</navLabel>
+			<content
+				src="027.smil#sm_1989" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_60"
+			class="pagenum"
+			playOrder="60"
+			type="special">
+			<navLabel>
+				<text>৩৪</text>
+				<audio
+					clipBegin="00:01:26.9192063"
+					clipEnd="00:01:29.6792063"
+					src="aud028.mp3" />
+			</navLabel>
+			<content
+				src="027.smil#sm_2055" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_62"
+			class="pagenum"
+			playOrder="62"
+			type="special">
+			<navLabel>
+				<text>৩৫</text>
+				<audio
+					clipBegin="00:00:47.2658503"
+					clipEnd="00:00:49.6058503"
+					src="aud029.mp3" />
+			</navLabel>
+			<content
+				src="028.smil#sm_2097" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_63"
+			class="pagenum"
+			playOrder="63"
+			type="special">
+			<navLabel>
+				<text>৩৬</text>
+				<audio
+					clipBegin="00:01:28.4358503"
+					clipEnd="00:01:30.2858503"
+					src="aud029.mp3" />
+			</navLabel>
+			<content
+				src="028.smil#sm_2166" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_65"
+			class="pagenum"
+			playOrder="65"
+			type="special">
+			<navLabel>
+				<text>৩৭</text>
+				<audio
+					clipBegin="00:00:53.0287302"
+					clipEnd="00:00:55.3487302"
+					src="aud030.mp3" />
+			</navLabel>
+			<content
+				src="029.smil#sm_2226" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_67"
+			class="pagenum"
+			playOrder="67"
+			type="special">
+			<navLabel>
+				<text>৩৮</text>
+				<audio
+					clipBegin="00:00:46.2892971"
+					clipEnd="00:00:48.9292971"
+					src="aud031.mp3" />
+			</navLabel>
+			<content
+				src="030.smil#sm_2268" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_68"
+			class="pagenum"
+			playOrder="68"
+			type="special">
+			<navLabel>
+				<text>৩৯</text>
+				<audio
+					clipBegin="00:01:25.9092971"
+					clipEnd="00:01:28.4892971"
+					src="aud031.mp3" />
+			</navLabel>
+			<content
+				src="030.smil#sm_2334" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_70"
+			class="pagenum"
+			playOrder="70"
+			type="special">
+			<navLabel>
+				<text>৪০</text>
+				<audio
+					clipBegin="00:00:19.8352154"
+					clipEnd="00:00:21.8745125"
+					src="aud032.mp3" />
+			</navLabel>
+			<content
+				src="031.smil#sm_2364" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_72"
+			class="pagenum"
+			playOrder="72"
+			type="special">
+			<navLabel>
+				<text>৪১</text>
+				<audio
+					clipBegin="00:00:16.8800000"
+					clipEnd="00:00:19.0050794"
+					src="aud033.mp3" />
+			</navLabel>
+			<content
+				src="032.smil#sm_2385" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_74"
+			class="pagenum"
+			playOrder="74"
+			type="special">
+			<navLabel>
+				<text>৪২</text>
+				<audio
+					clipBegin="00:00:22.7992971"
+					clipEnd="00:00:25.3592971"
+					src="aud034.mp3" />
+			</navLabel>
+			<content
+				src="033.smil#sm_2412" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_76"
+			class="pagenum"
+			playOrder="76"
+			type="special">
+			<navLabel>
+				<text>৪৩</text>
+				<audio
+					clipBegin="00:00:39.9785941"
+					clipEnd="00:00:42.3785941"
+					src="aud035.mp3" />
+			</navLabel>
+			<content
+				src="034.smil#sm_2439" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_77"
+			class="pagenum"
+			playOrder="77"
+			type="special">
+			<navLabel>
+				<text>৪৪</text>
+				<audio
+					clipBegin="00:01:23.9985941"
+					clipEnd="00:01:27.2785941"
+					src="aud035.mp3" />
+			</navLabel>
+			<content
+				src="034.smil#sm_2490" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_79"
+			class="pagenum"
+			playOrder="79"
+			type="special">
+			<navLabel>
+				<text>৪৫</text>
+				<audio
+					clipBegin="00:00:22.4500000"
+					clipEnd="00:00:25.0400000"
+					src="aud036.mp3" />
+			</navLabel>
+			<content
+				src="035.smil#sm_2520" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_81"
+			class="pagenum"
+			playOrder="81"
+			type="special">
+			<navLabel>
+				<text>৪৬</text>
+				<audio
+					clipBegin="00:00:44.5600000"
+					clipEnd="00:00:47.6500000"
+					src="aud037.mp3" />
+			</navLabel>
+			<content
+				src="036.smil#sm_2559" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_82"
+			class="pagenum"
+			playOrder="82"
+			type="special">
+			<navLabel>
+				<text>৪৭</text>
+				<audio
+					clipBegin="00:01:21.4658730"
+					clipEnd="00:01:23.6558730"
+					src="aud037.mp3" />
+			</navLabel>
+			<content
+				src="036.smil#sm_2616" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_84"
+			class="pagenum"
+			playOrder="84"
+			type="special">
+			<navLabel>
+				<text>৪৮</text>
+				<audio
+					clipBegin="00:00:44.8559184"
+					clipEnd="00:00:46.5859184"
+					src="aud038.mp3" />
+			</navLabel>
+			<content
+				src="037.smil#sm_2655" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_85"
+			class="pagenum"
+			playOrder="85"
+			type="special">
+			<navLabel>
+				<text>৪৯</text>
+				<audio
+					clipBegin="00:01:19.5046032"
+					clipEnd="00:01:21.4446032"
+					src="aud038.mp3" />
+			</navLabel>
+			<content
+				src="037.smil#sm_2715" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_87"
+			class="pagenum"
+			playOrder="87"
+			type="special">
+			<navLabel>
+				<text>৫০</text>
+				<audio
+					clipBegin="00:00:42.5231293"
+					clipEnd="00:00:45.8031293"
+					src="aud039.mp3" />
+			</navLabel>
+			<content
+				src="038.smil#sm_2748" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_88"
+			class="pagenum"
+			playOrder="88"
+			type="special">
+			<navLabel>
+				<text>৫১</text>
+				<audio
+					clipBegin="00:01:17.2431293"
+					clipEnd="00:01:19.2131293"
+					src="aud039.mp3" />
+			</navLabel>
+			<content
+				src="038.smil#sm_2799" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_90"
+			class="pagenum"
+			playOrder="90"
+			type="special">
+			<navLabel>
+				<text>৫২</text>
+				<audio
+					clipBegin="00:00:25.0447846"
+					clipEnd="00:00:27.8247846"
+					src="aud040.mp3" />
+			</navLabel>
+			<content
+				src="039.smil#sm_2839" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_92"
+			class="pagenum"
+			playOrder="92"
+			type="special">
+			<navLabel>
+				<text>৫৩</text>
+				<audio
+					clipBegin="00:00:44.7100000"
+					clipEnd="00:00:47.3000000"
+					src="aud041.mp3" />
+			</navLabel>
+			<content
+				src="040.smil#sm_2903" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_94"
+			class="pagenum"
+			playOrder="94"
+			type="special">
+			<navLabel>
+				<text>৫৪</text>
+				<audio
+					clipBegin="00:00:43.9800000"
+					clipEnd="00:00:46.6700000"
+					src="aud042.mp3" />
+			</navLabel>
+			<content
+				src="041.smil#sm_2970" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_96"
+			class="pagenum"
+			playOrder="96"
+			type="special">
+			<navLabel>
+				<text>৫৫</text>
+				<audio
+					clipBegin="00:00:53.6600000"
+					clipEnd="00:00:56"
+					src="aud043.mp3" />
+			</navLabel>
+			<content
+				src="042.smil#sm_3049" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_98"
+			class="pagenum"
+			playOrder="98"
+			type="special">
+			<navLabel>
+				<text>৫৬</text>
+				<audio
+					clipBegin="00:01:02.9445578"
+					clipEnd="00:01:05.2045578"
+					src="aud044.mp3" />
+			</navLabel>
+			<content
+				src="043.smil#sm_3185" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_99"
+			class="pagenum"
+			playOrder="99"
+			type="special">
+			<navLabel>
+				<text>৫৭</text>
+				<audio
+					clipBegin="00:01:46.0231519"
+					clipEnd="00:01:48.3631519"
+					src="aud044.mp3" />
+			</navLabel>
+			<content
+				src="043.smil#sm_3278" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_101"
+			class="pagenum"
+			playOrder="101"
+			type="special">
+			<navLabel>
+				<text>৫৮</text>
+				<audio
+					clipBegin="00:01:12.3908617"
+					clipEnd="00:01:14.3901587"
+					src="aud045.mp3" />
+			</navLabel>
+			<content
+				src="044.smil#sm_3356" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_102"
+			class="pagenum"
+			playOrder="102"
+			type="special">
+			<navLabel>
+				<text>৫৯</text>
+				<audio
+					clipBegin="00:01:22.6801587"
+					clipEnd="00:01:25.9101587"
+					src="aud045.mp3" />
+			</navLabel>
+			<content
+				src="044.smil#sm_3366" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_104"
+			class="pagenum"
+			playOrder="104"
+			type="special">
+			<navLabel>
+				<text>৬০</text>
+				<audio
+					clipBegin="00:00:39.9090023"
+					clipEnd="00:00:41.7790023"
+					src="aud046.mp3" />
+			</navLabel>
+			<content
+				src="045.smil#sm_3423" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_106"
+			class="pagenum"
+			playOrder="106"
+			type="special">
+			<navLabel>
+				<text>৬১</text>
+				<audio
+					clipBegin="00:01:17.8400454"
+					clipEnd="00:01:20.4900454"
+					src="aud047.mp3" />
+			</navLabel>
+			<content
+				src="046.smil#sm_3530" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_108"
+			class="pagenum"
+			playOrder="108"
+			type="special">
+			<navLabel>
+				<text>৬২</text>
+				<audio
+					clipBegin="00:00:28.5449660"
+					clipEnd="00:00:30.8642630"
+					src="aud048.mp3" />
+			</navLabel>
+			<content
+				src="047.smil#sm_3557" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_109"
+			class="pagenum"
+			playOrder="109"
+			type="special">
+			<navLabel>
+				<text>৬৩</text>
+				<audio
+					clipBegin="00:00:49.1442630"
+					clipEnd="00:00:52.6842630"
+					src="aud048.mp3" />
+			</navLabel>
+			<content
+				src="047.smil#sm_3570" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_111"
+			class="pagenum"
+			playOrder="111"
+			type="special">
+			<navLabel>
+				<text>৬৪</text>
+				<audio
+					clipBegin="00:00:55.6892971"
+					clipEnd="00:00:57.9892971"
+					src="aud049.mp3" />
+			</navLabel>
+			<content
+				src="048.smil#sm_3618" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_112"
+			class="pagenum"
+			playOrder="112"
+			type="special">
+			<navLabel>
+				<text>৬৫</text>
+				<audio
+					clipBegin="00:01:31.3363492"
+					clipEnd="00:01:33.9463492"
+					src="aud049.mp3" />
+			</navLabel>
+			<content
+				src="048.smil#sm_3655" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_114"
+			class="pagenum"
+			playOrder="114"
+			type="special">
+			<navLabel>
+				<text>৬৬</text>
+				<audio
+					clipBegin="00:01:29.5110658"
+					clipEnd="00:01:32.3810658"
+					src="aud050.mp3" />
+			</navLabel>
+			<content
+				src="049.smil#sm_3730" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_115"
+			class="pagenum"
+			playOrder="115"
+			type="special">
+			<navLabel>
+				<text>৬৭</text>
+				<audio
+					clipBegin="00:01:44.8603628"
+					clipEnd="00:01:47.4703628"
+					src="aud050.mp3" />
+			</navLabel>
+			<content
+				src="049.smil#sm_3759" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_116"
+			class="pagenum"
+			playOrder="116"
+			type="special">
+			<navLabel>
+				<text>৬৮</text>
+				<audio
+					clipBegin="00:02:03.1203628"
+					clipEnd="00:02:06.1503628"
+					src="aud050.mp3" />
+			</navLabel>
+			<content
+				src="049.smil#sm_3769" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_118"
+			class="pagenum"
+			playOrder="118"
+			type="special">
+			<navLabel>
+				<text>৬৯</text>
+				<audio
+					clipBegin="00:00:30.4200000"
+					clipEnd="00:00:32.8300000"
+					src="aud051.mp3" />
+			</navLabel>
+			<content
+				src="050.smil#sm_3796" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_119"
+			class="pagenum"
+			playOrder="119"
+			type="special">
+			<navLabel>
+				<text>৭০</text>
+				<audio
+					clipBegin="00:01:19.7644898"
+					clipEnd="00:01:22.8944898"
+					src="aud051.mp3" />
+			</navLabel>
+			<content
+				src="050.smil#sm_3857" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_121"
+			class="pagenum"
+			playOrder="121"
+			type="special">
+			<navLabel>
+				<text>৭১</text>
+				<audio
+					clipBegin="00:01:32.2570748"
+					clipEnd="00:01:34.6670748"
+					src="aud052.mp3" />
+			</navLabel>
+			<content
+				src="051.smil#sm_3947" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_123"
+			class="pagenum"
+			playOrder="123"
+			type="special">
+			<navLabel>
+				<text>৭২</text>
+				<audio
+					clipBegin="00:00:56.1399773"
+					clipEnd="00:00:58.4999773"
+					src="aud053.mp3" />
+			</navLabel>
+			<content
+				src="052.smil#sm_4010" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_124"
+			class="pagenum"
+			playOrder="124"
+			type="special">
+			<navLabel>
+				<text>৭৩</text>
+				<audio
+					clipBegin="00:01:53.0407483"
+					clipEnd="00:01:54.7807483"
+					src="aud053.mp3" />
+			</navLabel>
+			<content
+				src="052.smil#sm_4077" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_126"
+			class="pagenum"
+			playOrder="126"
+			type="special">
+			<navLabel>
+				<text>৭৪</text>
+				<audio
+					clipBegin="00:00:51.0033787"
+					clipEnd="00:00:52.7726757"
+					src="aud054.mp3" />
+			</navLabel>
+			<content
+				src="053.smil#sm_4125" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_128"
+			class="pagenum"
+			playOrder="128"
+			type="special">
+			<navLabel>
+				<text>৭৫</text>
+				<audio
+					clipBegin="00:00:41.3573469"
+					clipEnd="00:00:43.6173469"
+					src="aud055.mp3" />
+			</navLabel>
+			<content
+				src="054.smil#sm_4182" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_129"
+			class="pagenum"
+			playOrder="129"
+			type="special">
+			<navLabel>
+				<text>৭৬</text>
+				<audio
+					clipBegin="00:01:26.2573469"
+					clipEnd="00:01:28.2673469"
+					src="aud055.mp3" />
+			</navLabel>
+			<content
+				src="054.smil#sm_4240" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_130"
+			class="pagenum"
+			playOrder="130"
+			type="special">
+			<navLabel>
+				<text>৭৭</text>
+				<audio
+					clipBegin="00:02:19.1310204"
+					clipEnd="00:02:21.1995692"
+					src="aud055.mp3" />
+			</navLabel>
+			<content
+				src="054.smil#sm_4314" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_132"
+			class="pagenum"
+			playOrder="132"
+			type="special">
+			<navLabel>
+				<text>৭৮</text>
+				<audio
+					clipBegin="00:01:28.1487528"
+					clipEnd="00:01:30.5587528"
+					src="aud056.mp3" />
+			</navLabel>
+			<content
+				src="055.smil#sm_4398" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_133"
+			class="pagenum"
+			playOrder="133"
+			type="special">
+			<navLabel>
+				<text>৭৯</text>
+				<audio
+					clipBegin="00:02:44.2242630"
+					clipEnd="00:02:46.7335601"
+					src="aud056.mp3" />
+			</navLabel>
+			<content
+				src="055.smil#sm_4462" />
+		</pageTarget>
+		<pageTarget
+			id="ncx_135"
+			class="pagenum"
+			playOrder="135"
+			type="special">
+			<navLabel>
+				<text>৮০</text>
+				<audio
+					clipBegin="00:00:44.2992971"
+					clipEnd="00:00:47.0692971"
+					src="aud057.mp3" />
+			</navLabel>
+			<content
+				src="056.smil#sm_4510" />
+		</pageTarget>
+	</pageList>
+</ncx>
